@@ -1,0 +1,22 @@
+[Hezrou]
+initiativebase	3
+initiative	4,12
+hits	136
+temphits	0
+maxhits	136
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\hezrou.jpg
+location	
+size	10
+ac	16 (natural armor)
+speed	30 ft.
+hd	13d10
+cr	8
+abilities	Str:19*;Dex:17;Con:20*;Int:5;Wis:12*;Cha:13;
+STATS	Damage Resistances: cold, fire, lightning; bludgeoning, piercing and slashing from nonmagical weapons\n;Damage Immunities: poison\n;Condition Immunities: poisoned\n;Senses: darkvision 120 ft., passive Perception 11\n;Languages: Abyssal, telepathy 120 ft.\n;MM 60
+notes	
+Magic Resistance	The hezrou has advantage on saving throws against spells and other magical effects.
+Stench: 10' R, DC 14 Con vs. Poisoned	Any creature that starts its turn within 10' of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, creature is immune to the hezrou's stench for 24 hours.
+Multiattack: 1 bite, 2 claws	Hezrou makes three attacks: 1 bite and two claws.
+Attack-Bite	+7;2d10+4;5; piercing damage
+Attack-Claw	+7;2d6+4;5; slashing damage

@@ -1,0 +1,48 @@
+[Vampire]
+initiativebase	3
+initiative	15,23
+hits	144
+temphits	0
+maxhits	144
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\vampire-f.jpg
+location	
+size	5
+ac	16 (natural armor)
+speed	30 ft.
+hd	17d8
+cr	13
+abilities	Str:18;Dex:18*;Con:18;Int:17;Wis:15*;Cha:18*;
+Regeneration 20	The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+Vampire Weaknesses	The vampire has the following flaws:\n;*Forbiddance.* The vampire can't enter a residence without an invitation from one of the occupants.\n;*Harmed by Running Water.* The vampire takes 20 acid damage when it ends its turn in running water.\n;*Stake to the Heart. *The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\n;*Sunlight Hypersensitivity.* The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+Legendary Resistance (3/day)	If the vampire fails a saving throw, it can choose to success instead.
+Multiattack 2	Vampire form only. The vampire makes two attacks, only one of which can be a bite attack.
+Misty Escape	When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in Shapechange trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.\n;While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach it's resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
+Spider Climb	The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Charm	(Action) The vampire targets one jumanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a saving throw against this magic or be charmed by the vampire. The charmed target regards vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is willing target for the vampire's bite attack.\n;Each time the vampire or the vampire's companion do anything harmful to the target, it can repeat the saving throw ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until vampire is destroyed, is on different plane of existence than the target, or takes a bonus action to end the effect.
+Stats	*Skills* Perception +7, Stealth +9\n;*Damage Resistances* necrotic; bludgeoning, piercing, and slashing from nonmagical weapons\n;*Senses* darkvision 120 ft., passive Perception 17\n;*Languages* the languages it knew in life
+Attack-Bite	+9;d6+3+3d6;5; piercing damage (3d6 necrotic). Target must be willing, grappled, incapacitated or restrained . The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Attack-Unarmed strike	+9;d8+4;5; bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18)
+Children of the night (1/day)	The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
+Legendary Actions (3)	Vampire can make 3 legendary actions, choosing from the options below. Only one legendary action can be taken at the time and only at the end of another creatures turn. The vampire regains used legendary actions at the start of its turn.\n;* Move: move up to it's speed without provoking opportunity attacks.\n;* Unarmed strike: the vampire makes one unarmed strike.\n;* Bite (Costs 2 Actions): The vampire makes one bite attack.
+[Vampire Spawn]
+initiativebase	3
+initiative	17,17
+hits	82
+temphits	0
+maxhits	82
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\vampire-f.jpg
+location	
+size	5
+ac	15 (natural armor)
+speed	30 ft.
+hd	11d8
+cr	5
+abilities	Str:16;Dex:16*;Con:16;Int:11;Wis:10*;Cha:12;
+Regeneration 10	The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+Vampire Weaknesses	The vampire has the following flaws:\n;*Forbiddance.* The vampire can't enter a residence without an invitation from one of the occupants.\n;*Harmed by Running Water.* The vampire takes 20 acid damage when it ends its turn in running water.\n;*Stake to the Heart. *The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\n;*Sunlight Hypersensitivity.* The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+Stats	Skills Perception +3, Stealth +6\n;Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical weapons\n;Senses darkvision 60 ft., passive Perception 13\n;Languages the languages it knew in life
+Multiattack 2	he vampire makes two attacks, only one of which can be a bite attack.
+Attack-Claws	+6;2d4+3;5; slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+Attack-Bite	+6;d6+3+2d6;5; piercing damage (2d6 necrotic). . The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.

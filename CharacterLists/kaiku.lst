@@ -1,0 +1,15 @@
+[Kaiku]
+initiativebase	4
+initiative	9,530001
+hits	60
+temphits	0
+maxhits	60
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\elven_ranger.jpg
+location	
+size	3
+ac	19 (studded leather, +1 kilpi)
+speed	25
+hd	7d8
+cr	7 PC
+abilities	Str:16*;Dex:18*;Con:17;Int:14;Wis:15;Cha:6;

@@ -1,0 +1,15 @@
+[Simon]
+initiativebase	3
+initiative	16,8
+hits	38
+temphits	0
+maxhits	38
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\garden_gnome_by_duplex2.jpg
+location	
+size	3
+ac	16
+speed	25
+hd	9d8
+cr	9 PC
+abilities	Str:7;Dex:16;Con:10;Int:18;Wis:14*;Cha:19*;

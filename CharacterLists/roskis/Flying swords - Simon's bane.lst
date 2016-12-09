@@ -1,0 +1,174 @@
+[Daerin]
+initiativebase	5
+initiative	16,57
+hits	40
+temphits	0
+maxhits	40
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\male_elven_archer_by_vynthallas-d3ehotf.jpg
+location	79,75:69
+size	5
+[Jaska]
+initiativebase	3
+initiative	17,15
+hits	-3
+temphits	0
+maxhits	29
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\garden_gnome_by_duplex2.jpg
+location	78,125:50,875
+size	5
+[Flying Sword 1]
+initiativebase	2
+initiative	18,93
+hits	2
+temphits	0
+maxhits	17
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Flying sword.jpg
+location	
+size	5
+Stats	AC 17, Hits 17 (5d6), Speed 0 ft., fly 50 ft.\n;  STR     DEX    CON    INT  WIS CHA\n;12 (+1) 15 (+2) 11 (+0) 1 (-5) 5 (-3) 1 (-5)\n;Saving Throws Dex +4\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 7\n;Challenge 1/4 (50 XP)
+Attacks	Longsword: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.\n;A magically animated flying sword dances through the\n;air, fighting like a warrior that can’t be injured
+Special	Antimagic Susceptibility. The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;\n;False Appearance. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword
+[Animated Armor 2]
+initiativebase	0
+initiative	17,65
+hits	-5
+temphits	0
+maxhits	33
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Animated Armor.jpg
+location	
+size	5
+Stats	AC 18, HP 33 (6d8 + 6), Speed 25 ft.\n;  STR    DEX     CON     INT   WIS CHA\n;14 (+2) 11 (+0) 13 (+1) 1 (-5) 3 (-4) 1 (-5)\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 6\n;Challenge 1 (200 XP)
+Special	Antimagic Susceptibility. The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;False Appearance. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+Attacks	Multiattack. The armor makes two melee attacks.\n;Slam: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+[Michel In]
+initiativebase	3
+initiative	22,12
+hits	26
+temphits	0
+maxhits	26
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\ominous_wizard_by_capprotti-d51w2g0.jpg
+location	84,375:58,375
+size	5
+[Animated Armor]
+initiativebase	0
+initiative	15,27
+hits	26
+temphits	0
+maxhits	33
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Animated Armor.jpg
+location	
+size	5
+Stats	AC 18, HP 33 (6d8 + 6), Speed 25 ft.\n;  STR    DEX     CON     INT   WIS CHA\n;14 (+2) 11 (+0) 13 (+1) 1 (-5) 3 (-4) 1 (-5)\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 6\n;Challenge 1 (200 XP)
+Special	Antimagic Susceptibility. The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;False Appearance. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+Attacks	Multiattack. The armor makes two melee attacks.\n;Slam: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+[Sutter]
+initiativebase	3
+initiative	14,17
+hits	53
+temphits	0
+maxhits	53
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Fighter.jpg
+location	87,5:43,375
+size	5
+[Fungus 1]
+initiativebase	-5
+initiative	12,56
+hits	9
+temphits	0
+maxhits	18
+status	
+picturefile	
+location	
+size	5
+[Fungus]
+initiativebase	-5
+initiative	12,08
+hits	18
+temphits	0
+maxhits	20
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Enchantress.jpg
+location	64,125:42,625
+size	5
+[Flying Sword]
+initiativebase	2
+initiative	8,34
+hits	12
+temphits	0
+maxhits	17
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Flying sword.jpg
+location	
+size	5
+Stats	AC 17, Hits 17 (5d6), Speed 0 ft., fly 50 ft.\n;  STR     DEX    CON    INT  WIS CHA\n;12 (+1) 15 (+2) 11 (+0) 1 (-5) 5 (-3) 1 (-5)\n;Saving Throws Dex +4\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 7\n;Challenge 1/4 (50 XP)
+Attacks	Longsword: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.\n;A magically animated flying sword dances through the\n;air, fighting like a warrior that can’t be injured
+Special	Antimagic Susceptibility. The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;\n;False Appearance. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword
+[Animated Armor 1]
+initiativebase	0
+initiative	7,46
+hits	15
+temphits	0
+maxhits	33
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Animated Armor.jpg
+location	
+size	5
+Stats	AC 18, HP 33 (6d8 + 6), Speed 25 ft.\n;  STR    DEX     CON     INT   WIS CHA\n;14 (+2) 11 (+0) 13 (+1) 1 (-5) 3 (-4) 1 (-5)\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 6\n;Challenge 1 (200 XP)
+Special	Antimagic Susceptibility. The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;False Appearance. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+Attacks	Multiattack. The armor makes two melee attacks.\n;Slam: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+[Flying Sword 3]
+initiativebase	2
+initiative	6,44
+hits	12
+temphits	0
+maxhits	17
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Flying sword.jpg
+location	
+size	5
+Stats	AC 17, Hits 17 (5d6), Speed 0 ft., fly 50 ft.\n;  STR     DEX    CON    INT  WIS CHA\n;12 (+1) 15 (+2) 11 (+0) 1 (-5) 5 (-3) 1 (-5)\n;Saving Throws Dex +4\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 7\n;Challenge 1/4 (50 XP)
+Attacks	Longsword: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.\n;A magically animated flying sword dances through the\n;air, fighting like a warrior that can’t be injured
+Special	Antimagic Susceptibility. The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;\n;False Appearance. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword
+[Verna]
+initiativebase	4
+initiative	5,73
+hits	30
+temphits	0
+maxhits	30
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\lightfoot_halfling__female__by_conceptopolis-d5rsk2u.jpg
+location	56,375:61
+size	5
+[Flying Sword 2]
+initiativebase	2
+initiative	4,17
+hits	8
+temphits	0
+maxhits	17
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Flying sword.jpg
+location	
+size	5
+Stats	AC 17, Hits 17 (5d6), Speed 0 ft., fly 50 ft.\n;  STR     DEX    CON    INT  WIS CHA\n;12 (+1) 15 (+2) 11 (+0) 1 (-5) 5 (-3) 1 (-5)\n;Saving Throws Dex +4\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 7\n;Challenge 1/4 (50 XP)
+Attacks	Longsword: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.\n;A magically animated flying sword dances through the\n;air, fighting like a warrior that can’t be injured
+Special	Antimagic Susceptibility. The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;\n;False Appearance. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword
+[Animated Armor 3]
+initiativebase	0
+initiative	3,08
+hits	22
+temphits	0
+maxhits	33
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Animated Armor.jpg
+location	
+size	5
+Stats	AC 18, HP 33 (6d8 + 6), Speed 25 ft.\n;  STR    DEX     CON     INT   WIS CHA\n;14 (+2) 11 (+0) 13 (+1) 1 (-5) 3 (-4) 1 (-5)\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 6\n;Challenge 1 (200 XP)
+Special	Antimagic Susceptibility. The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;False Appearance. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+Attacks	Multiattack. The armor makes two melee attacks.\n;Slam: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.

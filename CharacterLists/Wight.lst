@@ -1,0 +1,19 @@
+[Wight]
+initiativebase	2
+initiative	9,28
+hits	45
+temphits	0
+maxhits	45
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\wight.jpg
+location	
+size	5
+ac	14 (studded leather)
+speed	30
+hd	6d8
+cr	3
+abilities	Str:15;Dex:14;Con:16;Int:10;Wis:13;Cha:15;
+Stats	*Multiattack.* The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.\n;*Life Drain.* Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.\n;\n;Skills Perception +3, Stealth +4\n;*Damage Resistances* necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered\n;*Damage Immunities* poison\n;Condition Immunities exhaustion, poisoned\n;Senses darkvision 60 ft., passive Perception 13\n;Languages the languages it knew in life\n;\n;*Sunlight Sensitivity.* While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sigh
+Attack-Life Drain	+4;d6+2;5; necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+Attack-Longsword	+4;d8+2;5; slashing damage
+Attack-Longbow	+4;d8+2;150/600 ft; slashing damage

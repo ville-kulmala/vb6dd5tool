@@ -1,0 +1,33 @@
+[Blue Slaad]
+initiativebase	2
+initiative	11,33
+hits	123
+temphits	0
+maxhits	123
+status	
+picturefile	
+location	
+size	5
+ac	15
+speed	30 ft.
+hd	13d10
+cr	7
+abilities	Str:20;Dex:15;Con:18;Int:7;Wis:7;Cha:9;
+notes	
+Attack-Bite	+6;2d4+3;5; piercing damage
+Attack-Claw	+6;d8+5;5; slashing damage
+[Red Slaad]
+initiativebase	1
+initiative	2,18
+hits	93
+temphits	0
+maxhits	93
+status	
+picturefile	
+location	
+size	5
+ac	14 (natural armor)
+speed	30 ft.
+hd	11d10
+cr	5
+abilities	Str:16;Dex:12;Con:16;Int:6;Wis:6;Cha:7;

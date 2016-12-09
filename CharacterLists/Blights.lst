@@ -1,0 +1,55 @@
+[Needle Blight]
+initiativebase	1
+initiative	19,27
+hits	11
+temphits	0
+maxhits	11
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\needle_blight.jpg
+location	
+size	5
+ac	12 (natural armor)
+speed	30
+hd	2d8
+cr	1/4
+abilities	Str:12;Dex:12;Con:13;Int:4;Wis:8;Cha:3;
+Stats	Condition Immunities: Blinded, deafened\n;Senses: Blindsight 60 ft. (blind beyond this radius), Passive percetion 9\n;Languages: Common, can't speak
+Attack-Claws	+3;2d4+1;5; piercing damage
+Attack-Needles	+3;2d6+1;530/60 ft.; piercing damage
+[Twig Blight]
+initiativebase	1
+initiative	3,9
+hits	4
+temphits	0
+maxhits	4
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Twig blight.jpg
+location	
+size	3
+ac	13 (natural armor)
+speed	20
+hd	1d6
+cr	1/8
+abilities	Str:6;Dex:13;Con:12;Int:4;Wis:8;Cha:3;
+Stats	Skills: Stealth +3\n;Damage Vulnerability: fire\n;Condition Immunities: blinded, deafened\n;Senses: blindsight 60 ft. (blind beyond this radius), passive perception 9\n;Languages: Common, can't speak\n;\n;MM p. 32
+False Appearance	While blight remains motionless, it is indistinguishable from a dead shrub.
+Attack-Claws	+3;d4+1;5; piercing damage
+[Vine Blight]
+initiativebase	-1
+initiative	3,89
+hits	26
+temphits	0
+maxhits	26
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\vine-blight.jpg
+location	
+size	5
+ac	12 (natural armor)
+speed	10 ft.
+hd	4d8
+cr	1/2
+abilities	Str:15;Dex:8;Con:14;Int:5;Wis:10;Cha:3;
+Stats	Skills: Stealth +1\n;Condition Immunities: blinded, deafened\n;Senses: blindsight 60 ft. (blind beyond this radius), passive perception 10\n;Languages: Common
+False Appearance	While blight remains motionless, it is indistinguishable from a dead shrub.
+Attack-Constrict	+4;2d6+2;10 ft.; bludgeon damage, Large or smaller grappled (DC12) and restrained. Can't constrict another.
+Entanglin Plants (recharge 5+)	Crasping roots and vines sprout in a 15-foot radius centered on the blight whithering away after 1 minute. Area is difficult terrain for nonplant creatures.\n;1st round: Each creature Blight chooses must DC12 Strength save or become restrained. DC12 Strength check frees oneself or another within reach.

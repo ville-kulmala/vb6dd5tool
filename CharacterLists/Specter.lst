@@ -1,0 +1,61 @@
+[Specter]
+initiativebase	2
+initiative	9,030001
+hits	22
+temphits	0
+maxhits	22
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Spectre.jpg
+location	
+size	5
+ac	12
+speed	50 ft. fly (hover)
+hd	5d8
+cr	1
+abilities	Str:1;Dex:14;Con:11;Int:10;Wis:10;Cha:11;
+Attack-Life drain	+4;3d6;5; necrotic damage, DC10 save or hitpoint maximum drops by damage
+Stats	Damage Resistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing and slashing from nonmagical weapons\n;Damage Immunities: necrotic, poison\n;Condition Immunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconcious\n;Senses: darkvision 60 ft., passive Perception 10\n;Languages: understands all languages it knew, but can't speak
+Incorporeal movement	The specter can move througjh other creatures and objects as if they were difficult terrain. I takes 5 (1d10) force damage if it ends its turn inside an object.
+Sunlight Sensitivity	While in sunligth, the specter has disadvantage on attack rolls, as well as Wisdom (Perception) checks that rely on sight.
+[Poltergeist]
+initiativebase	2
+initiative	8,450001
+hits	22
+temphits	0
+maxhits	22
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\poltergeist.jpg
+location	
+size	5
+ac	12
+speed	50 ft. fly (hover)
+hd	5d8
+cr	2
+abilities	Str:1;Dex:14;Con:11;Int:10;Wis:10;Cha:11;
+Stats	Damage Resistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing and slashing from nonmagical weapons\n;Damage Immunities: necrotic, poison\n;Condition Immunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconcious\n;Senses: darkvision 60 ft., passive Perception 10\n;Languages: understands all languages it knew, but can't speak
+Incorporeal movement	The specter can move througjh other creatures and objects as if they were difficult terrain. I takes 5 (1d10) force damage if it ends its turn inside an object.
+Sunlight Sensitivity	While in sunligth, the specter has disadvantage on attack rolls, as well as Wisdom (Perception) checks that rely on sight.
+Invisibility	The poltergeist is invisible.
+Attack-Forceful Slam	+4;3d6;5; force damage
+Telekinetic Thrust	The poltergeist targets a creature or unattended object within 30 feet of it. A creature must be Medium or smaller to be affected by this magic, and object can weight up to 150 bounds.\n;If the target is a creature, the poltergeist makes a Charisma check contested by targets Strength check. If the poltergeist wins the contest, the poltergeist hurls the target 30 feet in any direction, including upward. If the target then comes into contact with a hard surface or heavy object, target takes 1d6 damage per 10 feet moved.\n;If the target is an object that isn't being worn or carried, the poltergeist can hurl it up to 30 feet in any direction. The poltergeist can use the object as ranged weapon, attacking one creature along the object's path (+4 to hit) and dealing 5 (2d4) bludgeoning damage on a hit.
+Attack-Hurled object	+4;2d4;30 ft.; bludgeoning damage
+[Wraith]
+initiativebase	3
+initiative	10,58
+hits	67
+temphits	0
+maxhits	67
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\4e_wraith.jpg
+location	
+size	5
+ac	13
+speed	60 ft. fly (hover)
+hd	9d8
+cr	5
+abilities	Str:6;Dex:16;Con:16;Int:12;Wis:14;Cha:15;
+Stats	Damage Resistances acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered\n;Damage Immunities necrotic, poison\n;Condition Immunities charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained\n;Senses darkvision 60 ft., passive Perception 12\n;Languages the languages it knew in life
+Incorporeal Movement	The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+Sunlight Sensitivity	While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+Attack-Life Drain	+6;4d6+3;5; necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Create Specter	The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.

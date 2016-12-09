@@ -1,0 +1,20 @@
+[Ghast]
+initiativebase	3
+initiative	22,61
+hits	36
+temphits	0
+maxhits	36
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\ghast.jpg
+location	
+size	5
+ac	13
+speed	30 ft.
+hd	8d8
+cr	2
+abilities	Str:16;Dex:17;Con:10;Int:11;Wis:10;Cha:8;
+Stats	Damage Resistances necrotic\n;Damage Immunities poison\n;Condition Immunities charmed, exhaustion, poisoned\n;Senses darkvision 60 ft., passive Perception 10\n;Languages Common
+Stench	Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
+Turning Defiance	The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
+Attack-Bite	+3;2d8+3;5; piercing damage
+Attack-Claws	+5;2d6+3;5; slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

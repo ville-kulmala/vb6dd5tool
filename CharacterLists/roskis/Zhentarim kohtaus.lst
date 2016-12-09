@@ -1,0 +1,126 @@
+[Landak - Zenthilar]
+initiativebase	0
+initiative	12,85
+hits	38
+temphits	0
+maxhits	38
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Zhentarim.jpg
+location	73,1:14,23333
+size	5
+Stats	AC: 18 (chain mail, shield), HD: 32 (5d8 + 10), speed 30 ft. \n;Multiattack. The swordarm makes two melee attacks.\n;Long sword: +4 to hit, reach 5 ft., hit: 6 (1d8 + 2) slashing damage.\n;Dagger: +4 to hit, range 20/60 ft., hit: 4 (1d4+2) piercing damage.\n;Heavy Crossbow: +4 to hit, range 100/400 ft, hit: 8 (1d10+2) piercing damage\n;\n;Pack Tactics. The zhent has advantage on an attack roll against a creature if at least one of the zhent’s allies is within 5 feet of the creature and the ally isn’t incapacitated.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;15 (+2)\t; 14 (+2)\t; 14 (+2)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Skills Intimidation +2, Atheltics +4\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 3 (450 XP)\n;\n;
+[Sutter]
+initiativebase	3
+initiative	16,45
+hits	53
+temphits	0
+maxhits	53
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Sutter.jpg
+location	92,36667:25,8
+size	5
+[Michel In]
+initiativebase	3
+initiative	16,96
+hits	26
+temphits	0
+maxhits	26
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\ominous_wizard_by_capprotti-d51w2g0.jpg
+location	84,375:58,375
+size	5
+[Daerin]
+initiativebase	5
+initiative	11,59
+hits	40
+temphits	0
+maxhits	40
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\male_elven_archer_by_vynthallas-d3ehotf.jpg
+location	79,75:69
+size	5
+[Verna]
+initiativebase	4
+initiative	21,6
+hits	30
+temphits	0
+maxhits	30
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\lightfoot_halfling__female__by_conceptopolis-d5rsk2u.jpg
+location	89,83334:22,23333
+size	5
+[Jaska]
+initiativebase	3
+initiative	20,49
+hits	22
+temphits	0
+maxhits	22
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\garden_gnome_by_duplex2.jpg
+location	78,125:50,875
+size	5
+[Khaelen - Zhent Swordcaptain]
+initiativebase	6,48
+initiative	22,82
+hits	52
+temphits	0
+maxhits	52
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Fighter.jpg
+location	76,6:12,36667
+size	5
+Stats	AC 18 (plate), HD 52 (8d8 + 16), Speed 30 ft.\n;Multiattack. The knight makes two melee attacks.\n;Greatsword: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.\n;Heavy Crossbow: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.\n;===\n;Actions Leadership (Recharges after a Short or Long Rest). For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.\n;===\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;16 (+3)\t; 11 (+0)\t; 14 (+2)\t; 11 (+0)\t; 11 (+0)\t; 15 (+2)\n;Saving Throws Con +4, Wis +2\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 3 (700 XP)\n;\n;Brave. The knight has advantage on saving throws against\n;being frightened.\n;\n;
+[Malek - Zenthilar]
+initiativebase	0
+initiative	11,5
+hits	32
+temphits	0
+maxhits	32
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Zhentarim.jpg
+location	58,03333:13,83333
+size	5
+Stats	AC: 18 (chain mail, shield), HD: 32 (5d8 + 10), speed 30 ft. \n;Multiattack. The swordarm makes two melee attacks.\n;Long sword: +4 to hit, reach 5 ft., hit: 6 (1d8 + 2) slashing damage.\n;Dagger: +4 to hit, range 20/60 ft.,hit: 4 (1d4+2) piercing damage.\n;Pack Tactics. The zhent has advantage on an attack roll against a creature if at least one of the zhent’s allies is within 5 feet of the creature and the ally isn’t incapacitated.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;15 (+2)\t; 13 (+1)\t; 14 (+2)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Skills Intimidation +2, Atheltics +4\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 3 (450 XP)\n;\n;
+[Eccles - Zenthilar]
+initiativebase	0
+initiative	10,37
+hits	32
+temphits	0
+maxhits	32
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Zhentarim.jpg
+location	63,03333:14,2
+size	5
+Stats	AC: 18 (chain mail, shield), HD: 32 (5d8 + 10), speed 30 ft. \n;Multiattack. The swordarm makes two melee attacks.\n;Long sword: +4 to hit, reach 5 ft., hit: 6 (1d8 + 2) slashing damage.\n;Dagger: +4 to hit, range 20/60 ft.,hit: 4 (1d4+2) piercing damage.\n;Pack Tactics. The zhent has advantage on an attack roll against a creature if at least one of the zhent’s allies is within 5 feet of the creature and the ally isn’t incapacitated.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;15 (+2)\t; 13 (+1)\t; 14 (+2)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Skills Intimidation +2, Atheltics +4\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 3 (450 XP)\n;\n;
+[Azugar]
+initiativebase	4
+initiative	10,28
+hits	20
+temphits	0
+maxhits	20
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Enchantress.jpg
+location	94,83334:32,3
+size	5
+[Praxis - Zenthilar]
+initiativebase	0
+initiative	6,96
+hits	37
+temphits	0
+maxhits	37
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Zhentarim.jpg
+location	68,1:14,13333
+size	5
+Stats	AC: 18 (chain mail, shield), HD: 32 (5d8 + 10), speed 30 ft. \n;Multiattack. The swordarm makes two melee attacks.\n;Long sword: +4 to hit, reach 5 ft., hit: 6 (1d8 + 2) slashing damage.\n;Dagger: +4 to hit, range 20/60 ft.,hit: 4 (1d4+2) piercing damage.\n;Pack Tactics. The zhent has advantage on an attack roll against a creature if at least one of the zhent’s allies is within 5 feet of the creature and the ally isn’t incapacitated.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;15 (+2)\t; 13 (+1)\t; 14 (+2)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Skills Intimidation +2, Atheltics +4\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 3 (450 XP)\n;\n;
+[Nahar - Zenthilar]
+initiativebase	0
+initiative	2,07
+hits	32
+temphits	0
+maxhits	32
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Zhentarim.jpg
+location	61,63334:2,433333
+size	5
+Stats	AC: 18 (chain mail, shield), HD: 32 (5d8 + 10), speed 30 ft. \n;Multiattack. The swordarm makes two melee attacks.\n;Long sword: +4 to hit, reach 5 ft., hit: 6 (1d8 + 2) slashing damage.\n;Dagger: +4 to hit, range 20/60 ft.,hit: 4 (1d4+2) piercing damage.\n;Pack Tactics. The zhent has advantage on an attack roll against a creature if at least one of the zhent’s allies is within 5 feet of the creature and the ally isn’t incapacitated.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;15 (+2)\t; 13 (+1)\t; 14 (+2)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Skills Intimidation +2, Atheltics +4\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 3 (450 XP)\n;\n;

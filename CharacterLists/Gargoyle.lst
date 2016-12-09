@@ -1,0 +1,19 @@
+[Gargoyle]
+initiativebase	-2
+initiative	17,42
+hits	52
+temphits	0
+maxhits	52
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\gargoyle.jpg
+location	
+size	5
+ac	15 (natural armor)
+speed	30 ft, 60 ft fly
+hd	7d8
+cr	2
+abilities	Str:15;Dex:11;Con:16;Int:6;Wis:11;Cha:7;
+Stats	*Multiattack.* The gargoyle makes two attacks: one with its bite and one with its claws.\n;*False Appearance.* While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.\n;\n;Damage Resistances bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine\n;Damage Immunities poison\n;Condition Immunities exhaustion, petrified, poisoned\n;Senses darkvision 60 ft., passive Perception 10\n;Languages Terran
+Attack-Bite	+4;d6+2;5; piercing damage
+Attack-Claw left	+4;d6+2;5; slashing damage
+Attack-Claw right	+4;d6+2;5; slashing damage

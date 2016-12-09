@@ -1,0 +1,30 @@
+[Lem the Thief]
+initiativebase	4
+initiative	21
+hits	38
+temphits	0
+maxhits	38
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Fighter.jpg
+location	87,5:43,375
+size	5
+[M'bwana]
+initiativebase	3
+initiative	16,54
+hits	68
+temphits	0
+maxhits	68
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\garden_gnome_by_duplex2.jpg
+location	78,125:50,875
+size	5
+[Troll]
+initiativebase	1
+initiative	11,98
+hits	-5
+temphits	0
+maxhits	84
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\troll.jpg
+location	
+size	5

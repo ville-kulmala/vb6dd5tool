@@ -1,0 +1,34 @@
+[Zombie of Kost]
+initiativebase	-1
+initiative	10,67
+hits	28
+temphits	0
+maxhits	28
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\zombie.jpg
+location	
+size	5
+ac	8
+speed	20
+hd	3d8+6
+cr	1/4
+abilities	Str:13;Dex:6;Con:16;Int:3;Wis:6*;Cha:5;
+Stats	Add Hamun Kost's level to Hits and profesiency to attack. CHECK: saattoi tulla damageenkin vielä. Näyttäisi olevan jo prof. bonus, lisätäänkö entiseen?\n;\n;Undead Fortitude. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the  damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.\n;\n;\n;Damage Immunities poison\n;Condition Immunities poisoned\n;Senses darkvision 60 ft., passive Perception 8\n;Languages understands the languages it knew in life but can’t speak\n;
+Attack-Slam	+4;1d6+1;5; pludgeoning damage
+[Zombie]
+initiativebase	-1
+initiative	14,11
+hits	22
+temphits	0
+maxhits	22
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\zombie.jpg
+location	
+size	5
+ac	8
+speed	20
+hd	3d8
+cr	1/4
+abilities	Str:13;Dex:6;Con:16;Int:3;Wis:6*;Cha:5;
+Stats	Undead Fortitude. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the  damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.\n;\n;Damage Immunities poison\n;Condition Immunities poisoned\n;Senses darkvision 60 ft., passive Perception 8\n;Languages understands the languages it knew in life but can’t speak\n;
+Attack-Slam	+3;1d6+1;5; pludgeoning damage

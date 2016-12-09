@@ -1,0 +1,43 @@
+[Grick]
+initiativebase	2
+initiative	13,08
+hits	27
+temphits	0
+maxhits	27
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\grick.jpg
+location	
+size	5
+ac	14
+speed	30 ft., climb 30 ft.
+hd	6d8
+cr	2
+abilities	Str:14;Dex:14;Con:11;Int:3;Wis:14;Cha:5;
+notes	
+STATS	Damage Resistances bludgeoning, piercing, and slashing damage from nonmagical weapons\n;Senses darkvision 60 ft., passive Perception 12\n;Languages -\n;\n;This wormlike monstrosity blends in with the rock of the caverns it haunts. When prey comes near, its barbed tentacles unfurl to reveal its hungry, snapping beak.
+Stone Camouflage	The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+Multiattack	The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
+Attack-Tentacles	+4;2d6+2;5; slashing damage
+Attack-Beak	+4;d6+2;5; piercing damage
+[Grick Alpha]
+initiativebase	3
+initiative	12,8
+hits	75
+temphits	0
+maxhits	75
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\grick.jpg
+location	
+size	10
+ac	18
+speed	30 ft., climb 30 ft.
+hd	10d10
+cr	7
+abilities	Str:18;Dex:16;Con:15;Int:4;Wis:14;Cha:9;
+notes	
+STATS	Damage Resistances bludgeoning, piercing, and slashing damage from nonmagical weapons\n;Senses darkvision 60 ft., passive Perception 12\n;Languages -\n;\n;This wormlike monstrosity blends in with the rock of the caverns it haunts. When prey comes near, its barbed tentacles unfurl to reveal its hungry, snapping beak.
+Stone Camouflage	The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+Multiattack	The grick makes two attacks: one with its tail and one with its tentacles. If it hits with tentackles, the grick can make one beak attack against the same target.
+Attack-Tail	+7;2d6+4;10; slashing damage
+Attack-Tentacles	+7;4d8+4;10; slashing damage
+Attack-Beak	+7;2d8+4;10; piercing damage

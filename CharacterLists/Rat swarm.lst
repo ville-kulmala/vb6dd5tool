@@ -1,0 +1,72 @@
+[Swarm of poisonous snakes]
+initiativebase	0
+initiative	2,66
+hits	36
+temphits	0
+maxhits	36
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\swarm-of-snakes.jpg
+location	
+size	5
+ac	14
+speed	30 ft, swim 30 ft.
+hd	8d8
+cr	2
+abilities	Str:8;Dex:18;Con:11;Int:1;Wis:10;Cha:3;
+Stats	*Damage Resistances* bludgeoning, piercing, slashing\n;*Condition Immunities* charmed, frightened, paralyzed, petrified, prone, restrained, stunned\n;*Senses* blindsight 10 ft., passive Perception 10\n;\n;*Keen Hearing* The swarm has advantage on Wisdom (Perception) checks that rely on hearing.\n;
+Swarm	The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
+Attack-Bites	+6;2d6+4d6;5; piercing damage (or 1d6 if bloodied). The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+[Swarm of insects]
+initiativebase	0
+initiative	2,79
+hits	22
+temphits	0
+maxhits	22
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\swarm-of-insects.jpg
+location	
+size	5
+ac	12 (natural armor)
+speed	20 ft climb
+hd	5d8
+cr	1/2
+abilities	Str:3;Dex:13;Con:10;Int:1;Wis:7;Cha:1;
+Stats	*Damage Resistances* bludgeoning, piercing, slashing\n;Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned\n;*Senses* darkvision 30 ft., passive Perception 10\n;\n;*Keen Hearing* The swarm has advantage on Wisdom (Perception) checks that rely on hearing.\n;
+Swarm	The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
+Attack-Bites	+3;4d4;5; piercing damage (or 2d4 if bloodied)
+[Swarm of bats]
+initiativebase	0
+initiative	3,57
+hits	22
+temphits	0
+maxhits	22
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\swarm-of-bats.jpg
+location	
+size	5
+ac	12
+speed	30 ft fly
+hd	5d8
+cr	1/4
+abilities	Str:5;Dex:15;Con:10;Int:2;Wis:12;Cha:4;
+Stats	*Damage Resistances* bludgeoning, piercing, slashing\n;Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned\n;*Senses* darkvision 30 ft., passive Perception 10\n;\n;*Keen Hearing* The swarm has advantage on Wisdom (Perception) checks that rely on hearing.\n;
+Swarm	The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
+Attack-Bites	+4;2d4;5; piercing damage (or d4 if bloodied)
+Echolocation	The swarm can't use its blindsight while deafened.
+[Swarm of rats]
+initiativebase	0
+initiative	4,46
+hits	24
+temphits	0
+maxhits	24
+status	
+picturefile	
+location	
+size	5
+ac	10
+speed	30 ft
+hd	7d8
+cr	1/4
+abilities	Str:9;Dex:11;Con:9;Int:2;Wis:10;Cha:3;
+Stats	Damage Resistances bludgeoning, piercing, slashing\n;Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned\n;Senses darkvision 30 ft., passive Perception 10\n;\n;Keen Smell. The swarm has advantage on Wisdom (Perception) checks that rely on smell.\n;\n;Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
+Attack-Bites	+2;2d6;5; piercing damage (or d6 if bloodied)

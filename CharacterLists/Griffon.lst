@@ -1,0 +1,21 @@
+[Griffon]
+initiativebase	2
+initiative	8,37
+hits	59
+temphits	0
+maxhits	59
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\griffon.jpg
+location	
+size	10
+ac	12
+speed	30 ft., fly 80 ft
+hd	7d10
+cr	2
+abilities	Str:18;Dex:15;Con:16;Int:2;Wis:13;Cha:8;
+notes	
+STATS	Skills Perception +5\n;Senses darkvision 60 ft., passive Perception 15\n;Languages -\n;\n;A griffon is a ferocious avian carnivore with the muscular body of a lion and the head, forelegs, and wings of an eagle.
+Keen Sight	The griffon has advantage on Wisdom (Perception) checks that rely on sight
+Multiattack: beak + claw	The griffon makes two attacks: one with its beak and one with its claws.
+Attack-Beak	+6;d8+4;5; piercing damage
+Attack-Claws	+6;2d6+4;5; slashing damage

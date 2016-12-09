@@ -1,0 +1,81 @@
+[Tiny animated object]
+initiativebase	4
+initiative	15,18
+hits	20
+temphits	0
+maxhits	20
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\tiny-animated-object.jpg
+location	
+size	2
+ac	18
+speed	30 ft.
+hd	20
+cr	1/2
+abilities	Str:4;Dex:18;Con:10;Int:3;Wis:3;Cha:1;
+notes	
+Attack-Slam	+8;1d4+4;5; bludgeoning damage
+[Small animated object]
+initiativebase	2
+initiative	8,23
+hits	25
+temphits	0
+maxhits	25
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\Flying sword.jpg
+location	
+size	3
+ac	16
+speed	30 ft.
+hd	25
+cr	1/2
+abilities	Str:6;Dex:14;Con:10;Int:3;Wis:3;Cha:1;
+Attack-Slam	+6;d8+2;5; bludgeoning damage
+[Medium animated object]
+initiativebase	1
+initiative	12,2
+hits	40
+temphits	0
+maxhits	40
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\Animated Armor.jpg
+location	
+size	3
+ac	13
+speed	30 ft.
+hd	40
+cr	1
+abilities	Str:10;Dex:12;Con:10;Int:3;Wis:3;Cha:1;
+Attack-Slam	+5;2d6+1;5; bludgeoning damage
+[Large animated object]
+initiativebase	0
+initiative	6,91
+hits	50
+temphits	0
+maxhits	50
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\large-animated-object.jpg
+location	
+size	10
+ac	10
+speed	30 ft.
+hd	50
+cr	1
+abilities	Str:14;Dex:10;Con:10;Int:3;Wis:3;Cha:1;
+Attack-Slam	+6;2d10+2;5; bludgeoning damage
+[Huge animated object]
+initiativebase	-2
+initiative	18,51
+hits	80
+temphits	0
+maxhits	80
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\huge-animated-object.jpg
+location	
+size	20
+ac	10
+speed	30 ft.
+hd	80
+cr	1
+abilities	Str:18;Dex:6;Con:10;Int:3;Wis:3;Cha:1;
+Attack-Slam	+8;2d12+4;10; bludgeoning damage

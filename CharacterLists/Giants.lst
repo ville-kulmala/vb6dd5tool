@@ -1,0 +1,108 @@
+[Troll]
+initiativebase	1
+initiative	20,99
+hits	84
+temphits	0
+maxhits	84
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\troll.jpg
+location	
+size	10
+ac	15 (natural armor)
+speed	30
+hd	8d10
+cr	5
+abilities	Str:18;Dex:13;Con:20;Int:7;Wis:9;Cha:7;
+Stats	Senses darkvision 60 ft., passive Perception 11\n;Languages: Giant\n;\n;Multiattack. The troll makes three attacks: one with its bite and two with its claws.\n;\n;Keen Smell. The troll has advantage on Wisdom (Perception) checks that rely on smell.\n;\n;Regeneration. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+Attack-Bite	+7;1d6+4;5; piercing damage
+Attack-Claw	+7;2d6+4;5; slashing damage
+[Hill Giant]
+initiativebase	-1
+initiative	19,24
+hits	105
+temphits	0
+maxhits	105
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\hill giant.jpg
+location	
+size	15
+ac	13 (natural armor)
+speed	30
+hd	10d12
+cr	5
+abilities	Str:21;Dex:8;Con:19;Int:5;Wis:9;Cha:6;
+Stats	Multiattack. The giant makes two greatclub attacks.\n;\n;Skills Perception +2\n;Senses passive Perception 12\n;Languages Giant
+Attack-Rock	+8;3d10+5;60/240 ft; bludgeoning damage
+Attack-Greatclub	+8;3d8+5;10; bludgeoning damage
+[Frost Giant]
+initiativebase	0
+initiative	18,43
+hits	138
+temphits	0
+maxhits	138
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\frostgiant.jpg
+location	
+size	15
+ac	15 (patchwork armor)
+speed	40
+hd	12d12
+cr	8
+abilities	Str:23;Dex:9;Con:21*;Int:9;Wis:10*;Cha:12*;
+Stats	Multiattack. The giant makes two greataxe attacks\n;\n;Skills Athletics +9, Perception +3\n;Damage Immunities cold\n;Senses passive Perception 13\n;Languages Giant
+Attack-Rock	+9;4d10+6;60/240 ft; bludgeoning damage
+Attack-Greataxe	+9;3d12+6;10; slashing damage
+[Ogre]
+initiativebase	-1
+initiative	10,5
+hits	59
+temphits	0
+maxhits	59
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\ogre.jpg
+location	
+size	10
+ac	11 (hide armor)
+speed	40
+hd	7d12
+cr	2
+abilities	Str:19;Dex:8;Con:16;Int:5;Wis:7;Cha:7;
+Stats	Senses darkvision 60 ft., passive Perception 8\n;Languages Common, Giant
+Attack-Greatclub	+6;2d8+4;5; bludgeoning damage
+Attack-Javelin	+6;2d6+4;30/120 ft; piercing damage
+[Cyclops]
+initiativebase	0
+initiative	8,28
+hits	138
+temphits	0
+maxhits	138
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\cyclops.jpg
+location	
+size	15
+ac	14
+speed	
+hd	12d12
+cr	6
+abilities	Str:22;Dex:11;Con:20;Int:8;Wis:6;Cha:10;
+Stats	Multiattack. The cyclops makes two greatclub attacks.\n;\n;Senses passive Perception 8\n;Languages Giant\n;\n;Poor Depth Perception. The cyclops has disadvantage on any attack roll against a target more than 30 feet away.\n;\n;Cyclopes are one-eyed giants that eke out a meager existence in wild lands. They are a terrifying threat in combat due to their size and strength, but they can often be tricked by clever foes.
+Attack-Greatclub	+9;3d8+6;10; bludgeoning damage
+Attack-Rock	+9;4d10+6;30/120ft; bludgeoning damage
+[Fire Giant]
+initiativebase	0
+initiative	2,12
+hits	162
+temphits	0
+maxhits	162
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\firegiant.jpg
+location	
+size	15
+ac	18 (plate)
+speed	30
+hd	13d12
+cr	9
+abilities	Str:25;Dex:9*;Con:23*;Int:10;Wis:14;Cha:13*;
+Stats	Multiattack. The giant makes two greatsword attacks.\n;\n;Skills Athletics +11, Perception +6\n;Damage Immunities fire\n;Senses passive Perception 16\n;Languages Giant
+Attack-Greatsword	+11;6d6+7;10; slashing damage
+Attack-Rock	+11;4d10+7;60/240 ft; bludgeoning damage

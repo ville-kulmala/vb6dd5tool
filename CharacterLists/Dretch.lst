@@ -1,0 +1,21 @@
+[Dretch]
+initiativebase	0
+initiative	9,83
+hits	18
+temphits	0
+maxhits	18
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\dretch.jpg
+location	
+size	3
+ac	11 (natural armor)
+speed	20 ft.
+hd	4d6
+cr	1/4
+abilities	Str:11;Dex:11;Con:12;Int:5;Wis:8;Cha:3;
+notes	
+STATS	Damage Resistances: cold, fire, lightning\n;Damage Immunities: poison\n;Condition Immunities: poisoned\n;Senses: darkvision 60 ft., passive Perception 9\n;Languages: Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)\n;\n;Surkeita pikkudemoneita. MM 57
+Multiattack: bite and claw	The dretch makes two attacks: one with its bite and one with its claws.
+Attack-Bite	+2;d6;5; piercing damage
+Attack-Claw	+2;2d4;5; claws damage
+Fetid Cloud: 1/day 10'R DC11 Con vs Poisoned	A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While posoned this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.

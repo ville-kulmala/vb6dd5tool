@@ -1,0 +1,22 @@
+[Night Hag]
+initiativebase	2
+initiative	15,25
+hits	112
+temphits	0
+maxhits	112
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\night hag.jpg
+location	
+size	5
+ac	17 (natural armor)
+speed	30 ft.
+hd	15d8
+cr	5
+abilities	Str:18;Dex:15;Con:16;Int:16;Wis:14;Cha:16;
+Stats	Skills: Deception +7, Insight +6, Perception +6, Stealth +6\n;Damage Resistance: cold, fire; bludgeoning, piercing and slashing from nonmagical weapons that aren't silvered\n;Condition immunities: charmed\n;Senses: darkvision 120 ft., passive Perception 16\n;Languages: Abyssal, Common, Infernal, Primordial
+Innate Spellcasting (DC 13, +5 to hit Cha)	Innate spellcastin ability: Charisma (save DC 13, to hit +5)\n;She can cast the following spells innately, requiring no material componentes:\n;At will: detect magic, magic missile\n;2/day: plane shift (self only), ray of enfeeblement, sleep
+Magic resistance	Advantage to on saving throws against spells and other magical effects.
+Act: Change shape	The hag magically polymorphs into a small or medium female humanoid, or back into har true form. No stat change, equipment change. Reverts when dies (p.178)
+Act: Etherealness	Magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a Heartstone in her possession.
+Act: Nightmare haunting	Check page 178 (only on sleeper)
+Attack-Claws (hag form only)	+6;2d8+4;5; slashing damage

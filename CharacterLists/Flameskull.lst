@@ -1,0 +1,18 @@
+[Flameskull]
+initiativebase	3
+initiative	10,39
+hits	40
+temphits	0
+maxhits	40
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Flameskull.jpg
+location	
+size	2
+ac	13
+speed	40 ft.
+hd	9d4
+cr	4
+abilities	Str:1;Dex:17;Con:14;Int:16;Wis:10;Cha:11;
+Stats	Illumination. The flameskull sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 feet. It can switch between the options as an action.\n;Magic Resistance. The flameskull has advantage on saving throws against spells and other magical effects.\n;Rejuvenation. If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a dispel magic or remove curse spell is cast on them.\n;Spellcasting. The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:\n;Cantrip (at will): mage hand\n;1st level (3 slots): magic missile, shield\n;2nd level (2 slots): blur, flaming sphere\n;3rd level (1 slot): fireball
+Multiattack - 2x Fireray	The flameskull uses Fire Ray twice.
+Attack-Fireray	+5;3d6;30; fire damage

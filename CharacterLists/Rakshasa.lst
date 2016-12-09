@@ -1,0 +1,20 @@
+[Rakshasa]
+initiativebase	3
+initiative	17,64
+hits	110
+temphits	0
+maxhits	110
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\rakshasa.jpg
+location	
+size	5
+ac	16 (natural armor)
+speed	
+hd	13d8
+cr	13
+abilities	Str:14;Dex:17;Con:18;Int:13;Wis:16;Cha:20;
+STATS	Skills: Deception +10, Insight +8 \n;Damage Vulnerabilities: piercing from magic weapons wielded by good creatures \n;Damage Immunities: bludgeoning, piercing, and slashing from non magical weapons\n;Senses: darkvision 60 ft., passive Perception 13\n;Languages Common, Infernal 
+Limited Magic Immunity - 6th level or lower	The rakshasa is immune to spells of 6th level or lower unless it wishes to be affected. It has advantage on saving throws against all other spells and magical effects.
+Innate Spellcasting - DC18 / +10 to hit	The rakshasa's innate.spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components: \n;At will: detect thoughts, disguise self, mage hand, minor illusion \n;3/fday each: charm person, detect magic, invisibility, major image, suggestion\n;1/day each: dominate person, fly, plane shift, true seeing
+Multiattack: 2 claws	The rakshasa makes two claw attacks.
+Attack-Claw	+7;2d6+2;5; slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.

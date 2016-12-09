@@ -1,0 +1,306 @@
+[Agonia of Loviatar]
+initiativebase	3
+initiative	13,07
+hits	42
+temphits	0
+maxhits	42
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Loviatar.jpg
+location	
+size	5
+ac	11
+speed	30
+hd	5d8
+cr	3
+abilities	Str:5;Dex:17;Con:18;Int:14;Wis:19;Cha:10;
+Stats	Skills Medicine +6, Religion +3\n;Senses passive Perception 11\n;Languages any one language (usually Common)
+Spellcasting (DC 15, +7 to hit)	The acolyte is a 1st-level spellcaster. Its\n;spellcasting ability is Wisdom (spell save DC 15, +7 to hit with\n;spell attacks). The acolyte has following cleric spells prepared:\n;\n;Cantrips (at will): light, sacred flame, thaumaturgy, guidance, chill touch\n;1st level (4 slots): bless, cure wounds, sanctuary, false life\n;2nd level (3 slots): hold person, ray of enfeeblement\n;3rd level (2 slots): revify, animate dead\n;\n;FALSE LIFE\n;Range: self\n;Effect: 4+d4 temp hits +5 / slot over 2\n;Duration: 1 hout
+Attack-Whip	+5;1d4+3;5; slashing damage
+Channel Divinity: Touch of Death 15	When hits with melee weapon, may use Channel Divinity to cause 5+lvl x 2 damage (nectrotic) in addition to weapon damage.
+Attack-Chill touch	+6;2d8;120; necrotic damage, can't regain  HP until attackers next round
+notes	
+Attack-Dagger	+5;1d4+3;5; slashing damage
+[Kaiho of Loviatar]
+initiativebase	1
+initiative	12,54
+hits	21
+temphits	0
+maxhits	21
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Loviatar.jpg
+location	
+size	5
+ac	11
+speed	30
+hd	5d8
+cr	3
+abilities	Str:10;Dex:12;Con:11;Int:12;Wis:18;Cha:17;
+Stats	Skills Medicine +6, Religion +3\n;Senses passive Perception 11\n;Languages any one language (usually Common)
+Spellcasting	The acolyte is a 1st-level spellcaster. Its\n;spellcasting ability is Wisdom (spell save DC 14, +6 to hit with\n;spell attacks). The acolyte has following cleric spells prepared:\n;\n;Cantrips (at will): light, sacred flame, thaumaturgy, guidance, chill touch\n;1st level (4 slots): bless, cure wounds, sanctuary, change self, charm person\n;2nd level (3 slots): hold person, mirror image, pass without trace\n;3rd level (2 slots): revify, blink, dispel magic\n;\n;FALSE LIFE\n;Range: self\n;Effect: 4+d4 temp hits +5 / slot over 2\n;Duration: 1 hout
+Attack-Whip	+5;1d4+3;5; slashing damage
+Channel Divinity: Invoke Duplicity	Creates illusory duplicate of caster. \n;Duration: 1 minute (concentration)\n;Range: 30\n;Spells may seem to be cast from the double, but line of effect allways from the original.\n;Bonus Action: move 30 ft. within 120 ft. from caster.\n;Grants Advantage if within 5' from melee opponent.\n;\n;PHP 63
+Attack-Dagger	+5;1d4+3;5; piercing damage
+[Trickster Acolyte of Loviatar]
+initiativebase	1
+initiative	12,54
+hits	25
+temphits	0
+maxhits	25
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Loviatar.jpg
+location	
+size	5
+ac	11
+speed	30
+hd	5d8
+cr	3
+abilities	Str:10;Dex:13;Con:10;Int:10;Wis:14;Cha:13;
+Stats	Skills Medicine +6, Religion +3\n;Senses passive Perception 11\n;Languages any one language (usually Common)
+Spellcasting	The acolyte is a 1st-level spellcaster. Its\n;spellcasting ability is Wisdom (spell save DC 14, +6 to hit with\n;spell attacks). The acolyte has following cleric spells prepared:\n;\n;Cantrips (at will): light, sacred flame, thaumaturgy, guidance, chill touch\n;1st level (4 slots): bless, cure wounds, sanctuary, change self, charm person\n;2nd level (3 slots): hold person, mirror image, pass without trace\n;3rd level (2 slots): revify, blink, dispel magic\n;\n;FALSE LIFE\n;Range: self\n;Effect: 4+d4 temp hits +5 / slot over 2\n;Duration: 1 hout
+Attack-Club	+3;1d4+1;5; bludgeoning damage
+Attack-Whip	+4;1d4+1;5; slashing damage
+Channel Divinity: Invoke Duplicity	Creates illusory duplicate of caster. \n;Duration: 1 minute (concentration)\n;Range: 30\n;Spells may seem to be cast from the double, but line of effect allways from the original.\n;Bonus Action: move 30 ft. within 120 ft. from caster.\n;Grants Advantage if within 5' from melee opponent.\n;\n;PHP 63
+Attack-Dagger	+3;1d4+1;5; piercing damage
+[Acolyte of Loviatar]
+initiativebase	1
+initiative	13,78
+hits	25
+temphits	0
+maxhits	25
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Loviatar.jpg
+location	
+size	5
+ac	11
+speed	30
+hd	5d8
+cr	3
+abilities	Str:10;Dex:13;Con:10;Int:10;Wis:14;Cha:11;
+Stats	Skills Medicine +6, Religion +3\n;Senses passive Perception 11\n;Languages any one language (usually Common)
+Spellcasting	The acolyte is a 1st-level spellcaster. Its\n;spellcasting ability is Wisdom (spell save DC 14, +6 to hit with\n;spell attacks). The acolyte has following cleric spells prepared:\n;\n;Cantrips (at will): light, sacred flame, thaumaturgy, guidance, chill touch\n;1st level (4 slots): bless, cure wounds, sanctuary, false life\n;2nd level (3 slots): hold person, ray of enfeeblement\n;3rd level (2 slots): revify, animate dead\n;\n;FALSE LIFE\n;Range: self\n;Effect: 4+d4 temp hits +5 / slot over 2\n;Duration: 1 hout
+Attack-Club	+3;1d4+1;5; bludgeoning damage
+Attack-Whip	+4;1d4+1;5; slashing damage
+Channel Divinity: Touch of Death 15	When hits with melee weapon, may use Channel Divinity to cause 5+lvl x 2 damage (nectrotic) in addition to weapon damage.
+Attack-Chill touch	+5;2d8;120; necrotic damage, can't regain  HP until attackers next round
+[Acolyte]
+initiativebase	0
+initiative	14,49
+hits	9
+temphits	0
+maxhits	9
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Acolyte.jpg
+location	
+size	5
+ac	10
+speed	30
+hd	1d4
+cr	1/4
+abilities	Str:10;Dex:10;Con:10;Int:10;Wis:14;Cha:11;
+Stats	Skills Medicine +4, Religion +2\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 1/4 (50 XP)
+Spellcasting	The acolyte is a 1st-level spellcaster. Its\n;spellcasting ability is Wisdom (spell save DC 12, +4 to hit with\n;spell attacks). The acolyte has following cleric spells prepared:\n;\n;Cantrips (at will): light, sacred flame, thaumaturgy\n;1st level (3 slots): bless, cure wounds, sanctuary\n;
+Attack-Club	+2;1d4;5; bludgeoning damage
+[Cultist]
+initiativebase	1
+initiative	16,11
+hits	9
+temphits	0
+maxhits	9
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\dragon-cultist.jpg
+location	
+size	5
+ac	12 (leather armor)
+speed	30
+hd	2d8
+cr	1/8
+abilities	Str:11;Dex:12;Con:10;Int:10;Wis:11;Cha:10;
+Stats	Skills: Deception +2, Religion +2\n;Senses: passive Perception 10\n;Languages: any one language (usually Common)\n;\n;
+Attack-Scimitar	+3;1d6+1;5; slashing damage
+Dark Devotion (Advantage to saves)	The cultist has advantage on saving throws
+[Zenthilar]
+initiativebase	0
+initiative	14,22
+hits	32
+temphits	0
+maxhits	32
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Zhentarim.jpg
+location	
+size	5
+ac	18 (chain mail, shield)
+speed	30
+hd	5d8
+cr	3
+abilities	Str:15;Dex:13;Con:14;Int:10;Wis:10;Cha:10;
+Stats	Skills Intimidation +2, Atheltics +4\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;\n;\n;
+Pack Tactics	The zhent has advantage on an attack roll against a creature if at least one of the zhent’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+Multiattack: two melee attacks.	Multiattack. The swordarm makes two melee attacks.
+Attack-Long sword	+4;1d8+2;5; bludgeoning damage
+Attack-Dagger	+4;1d4+2;20/60; piercing damage
+[Halfling Guard]
+initiativebase	1
+initiative	14,71
+hits	11
+temphits	0
+maxhits	11
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\halfling-guard.jpg
+location	
+size	3
+ac	16 (chain shirt, shield)
+speed	25
+hd	2d8
+cr	1/8
+abilities	Str:9;Dex:15;Con:12;Int:10;Wis:11;Cha:10;
+Stats	Skills Perception +2\n;Senses passive Perception 12\n;\n;Challenge 1/8 (25 XP)\n;2015-05-19 tehty suunnilleen tyylillä
+Stout	Advantage against poison, resistant against poison damage.
+Brave	Advantage against veing frightened
+Attack-Longsword	+4;1d6 + 2;5; piercing damage
+Attack-Light crossbow	+4;1d8+2;80/320; piercing damage
+[Commoner]
+initiativebase	0
+initiative	13,64
+hits	4
+temphits	0
+maxhits	4
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\commoner.jpg
+location	
+size	5
+ac	10
+speed	30
+hd	1d8
+cr	0
+abilities	Str:10;Dex:10;Con:10;Int:10;Wis:10;Cha:10;
+Stats	AC: 10, HD: 4 (1d8), Speed 30 ft.\n;Club: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;10 (+0)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 0 (10 XP)\n;\n;
+Attack-Club	+2;1d4;5; bludgeoning damage
+[Bandit]
+initiativebase	1
+initiative	11,71
+hits	11
+temphits	0
+maxhits	11
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\bandit.jpg
+location	
+size	5
+ac	12 (leather armor)
+speed	30
+hd	2d8
+cr	1/8
+abilities	Str:11;Dex:12;Con:12;Int:10;Wis:10;Cha:10;
+Stats	AC: 12 (leather armor), Speed 30 ft. HP 11 (2d8 + 2)\n;Scimitar: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.\n;Light Crossbow: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;11 (+0)\t; 12 (+1)\t; 12 (+1)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 1/8 (25 XP)\n;\n;
+Attack-Scimitar	+3;1d6+1;5; slashing damage
+Attack-Light Crossbow	+3;1d8+1;80 ft./320 ft; slashing damage
+[Knight]
+initiativebase	0
+initiative	11,6
+hits	52
+temphits	0
+maxhits	52
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\knight.jpg
+location	
+size	5
+ac	18 (plate)
+speed	30
+hd	8d8
+cr	3
+abilities	Str:16;Dex:11;Con:14*;Int:11;Wis:11*;Cha:15;
+Stats	Multiattack. The knight makes two melee attacks.\n;\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 3 (700 XP)\n;\n;\n;
+Brave	The knight has advantage on saving throws against
+Leadership (Recharges after a Short or Long Rest)	(Recharges after a Short or Long Rest). For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its
+Attack-Greatsword	+5;2d6+3;5; slashing damage
+Attack-Heavy Crossbow	+2;1d10;100/400; piercing damage
+[Berserker]
+initiativebase	1
+initiative	5,71
+hits	67
+temphits	0
+maxhits	67
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\berserker.jpg
+location	
+size	5
+ac	13 (hide armor)
+speed	30
+hd	9d8
+cr	2
+abilities	Str:16;Dex:12;Con:17;Int:9;Wis:11;Cha:9;
+Stats	AC: 13 (hide armor), Speed 30 ft., HD: 67 (9d8 + 27)\n;Greataxe: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.\n;\n;Reckless. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.\n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n; 16 (+3)\t; 12 (+1)\t; 17 (+3)\t;9 (-1)\t; 11 (+0)\t; 9 (-1)\n;\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 2 (450 XP)\n;
+Attack-Greataxe	+5;1d12 + 3;5; slashing damage
+[Guard]
+initiativebase	1
+initiative	5,87
+hits	11
+temphits	0
+maxhits	11
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\guard.jpg
+location	
+size	5
+ac	16 (chain shirt, shield)
+speed	30
+hd	2d8
+cr	1/8
+abilities	Str:13;Dex:12;Con:12;Int:10;Wis:11;Cha:10;
+Stats	AC 16 (chain shirt, shield), HD 11 (2d8 + 2), Speed 30 ft.\n;Spear. Melee or Ranged : +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;13 (+1)\t; 12 (+1)\t; 12 (+1)\t; 10 (+0)\t; 11 (+0)\t; 10 (+0)\n;Skills Perception +2\n;Senses passive Perception 12\n;Languages any one language (usually Common)\n;Challenge 1/8 (25 XP)\n;
+Attack-Spear	+3;1d6 + 1;20/60 ft; piercing damage
+[Thug]
+initiativebase	0
+initiative	-0,3
+hits	32
+temphits	0
+maxhits	32
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\thug.jpg
+location	
+size	5
+ac	11 (leather armor)
+speed	30
+hd	5d8
+cr	1/2
+abilities	Str:13;Dex:11;Con:14;Int:10;Wis:10;Cha:10;
+Stats	AC: 11 (leather armor), Speed 30 ft. HP 32 (5d8 + 10)\n;Multiattack. The thug makes two melee attacks.\n;Mace: +4 to hit, reach 5 ft., hit: 5 (1d6 + 2) bludgeoning damage.\n;Heavy Crossbow: +2 to hit, range 100/400 ft.,hHit: 5 (1d10) piercing damage.\n;Pack Tactics. The thug has advantage on an attack roll against a creature if at least one of the thug’s allies is within 5 feet of the creature and the ally isn’t incapacitated.\n;\n;STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA\n;15 (+2)\t; 11 (+0)\t; 14 (+2)\t; 10 (+0)\t; 10 (+0)\t; 10 (+0)\n;Skills Intimidation +2\n;Senses passive Perception 10\n;Languages any one language (usually Common)\n;Challenge 1/2 (100 XP)\n;\n;
+Attack-Mace	+4;1d6+2;5; bludgeoning damage
+Attack-Heavy Crossbow	+2;1d10;100/400; bludgeoning damage
+[Favric]
+initiativebase	1
+initiative	8,32
+hits	9
+temphits	0
+maxhits	9
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\dragon-cultist.jpg
+location	
+size	5
+ac	12 (leather armor)
+speed	30
+hd	3d8
+cr	3
+abilities	Str:11;Dex:12;Con:13*;Int:15;Wis:16*;Cha:14;
+Attack-Dagger	+3;d6+1;5; piercing damage
+Stats	Lohikäärmekultisti, Cleric\n;Lemmikkinä Dracolich\n;\n;Spells:\n;0 lvl: Guidance, Sacred flame, Thaumaturgy\n;1 lvl (4): Bless, Command, Cure wounds, Sanctuary\n;2 lvl (2): Aid, Blindness/Deffness \n;\n;Equipment:\n; Healing potion x 3\n; Scroll of Revifify\n;
+[Assassin]
+initiativebase	3
+initiative	-0,18
+hits	78
+temphits	0
+maxhits	78
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\assassin.jpg
+location	
+size	5
+ac	15 (studded armor)
+speed	30
+hd	12d8
+cr	8
+abilities	Str:11;Dex:16*;Con:14;Int:13*;Wis:11;Cha:10;
+Stats	Damage Resistanse: Poison\n;Senses: Passive perception 14\n;Skills: Athletics +7, Deception +4, Perception +4, Stealth +11\n;\n;Jostain +1 nähtävästi professiencyyn...\n;Poison 7d8 kaikilla hyökkäyksillä on ehkä vähän liikaa. Ovat toki Wyvern Poisonin statit, mutta miten se uusii terässä?\n;p.352 Monser Manual
+Assassinate	During its first turn, the assassin has advantage on attack rolls agains any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
+Evasion	If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Sneak attack (1/turn, 4d6)	The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
+Multiattack: two shortsword attack	The assassin makes two shortsword attacks.
+Attack-Shortsword	+7;d6+3;5; piercing damage, DC 15 Con or 7d6 poison damage to half
+Attack-Light Crossbow	+7;d8+3;80/320 ft.; piercing damage, +7d8 poison damage, DC 15 Con to half

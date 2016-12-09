@@ -1,0 +1,40 @@
+[Bone naga guardian]
+initiativebase	3
+initiative	10,72
+hits	58
+temphits	0
+maxhits	58
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\bone naga.jpg
+location	
+size	10
+ac	15 (natural armor)
+speed	40 ft.
+hd	9d10
+cr	4
+abilities	Str:15;Dex:16;Con:12;Int:15;Wis:15;Cha:16;
+notes	
+Stats	Damage Immunities: poison\n;Condition Immunities: charmed, poisoned\n;Senses: darkvision 60 ft., Passive perception 12\n;Languages: celestial, common
+Spell casting: DC12, +4 to hit	The naga is 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC12, +4 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:\n;\n;Cantrips (at will): mending, thaumaturgy, sacred flame\n;1st level (4 slots): command, shield of faith\n;2nd level (3 slots): calm emotions, hold person\n;3rd level (2 slots): bestow curse\n;
+Attack-Bite	+5;2d6+3;10; piercing damage +3d6 poison damage
+[Guardian naga]
+initiativebase	4
+initiative	11,96
+hits	127
+temphits	0
+maxhits	127
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\guardian naga.jpg
+location	
+size	10
+ac	18 (natural armor)
+speed	40 ft.
+hd	15d10
+cr	10
+abilities	Str:19;Dex:18*;Con:16*;Int:16*;Wis:19*;Cha:18*;
+notes	
+Stats	Damage Immunities: poison\n;Condition Immunities: charmed, poisoned\n;Senses: darkvision 60 ft., Passive perception 12\n;Languages: celestial, common
+Rejuvenation: 1d6 days	If it dies, naga returns to life in 1d6 days and regains all its hit points. Only a wish spell will prevent this trait from functioning.
+Spell casting: DC16, +8 to hit	The naga is 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:\n;\n;Cantrips (at will): mending, thaumaturgy, sacred flame\n;1st level (4 slots): command, cure wounds, shield of faith\n;2nd level (3 slots): calm emotions, hold person\n;3rd level (3 slots): bestow curse, clairvoyance\n;4th level (3 slots): banishment, freedom of movement\n;5th level (2 slots): flame strike, animate objects, geas\n;6th level (1 slot): true seeing
+Attack-Bite	+8;d8+4;10; piercing damage, DC15 con save vs. 10d6 poison damage, save halves
+Attack-Spit poison	+8;10d8;15/30; poison damage, DC 15 Con to halve

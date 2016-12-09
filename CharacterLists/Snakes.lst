@@ -1,0 +1,54 @@
+[Giant Constrictor Snake]
+initiativebase	4
+initiative	2,07
+hits	11
+temphits	0
+maxhits	11
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\giant constrictor.jpg
+location	
+size	15
+ac	14
+speed	30 ft., swim 30 ft.
+hd	2d8
+cr	1/4
+abilities	Str:10;Dex:18;Con:13;Int:2;Wis:10;Cha:3;
+STATS	Skills: Perception +2\n;Senses: blindshight 10 ft., passive Perception 12\n;
+notes	
+Attack-Bite	+6;2d6+4;5; piercing damage
+Attack-Constrict	+6;2d8+4;5; bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+[Giant Poisonous Snake]
+initiativebase	2
+initiative	10,87
+hits	60
+temphits	0
+maxhits	60
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\snake.jpg
+location	
+size	5
+ac	12
+speed	
+hd	8d12
+cr	2
+abilities	Str:19;Dex:14;Con:12;Int:1;Wis:10;Cha:3;
+STATS	Skills: Perception +2\n;Senses: blindshight 10 ft., passive Perception 12\n;
+Attack-Bite	+6;d4+4;5; piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+[Constrictor Snake]
+initiativebase	2
+initiative	11,38
+hits	13
+temphits	0
+maxhits	13
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\constrictor snake.jpg
+location	
+size	10
+ac	12
+speed	30 ft., swim 30 ft.
+hd	2d10
+cr	1/4
+abilities	Str:15;Dex:14;Con:12;Int:1;Wis:10;Cha:3;
+STATS	Senses blindsight 10 ft., passive Perception 10\n;Languages -
+Attack-Bite	+4;d6+2;5; piercing damage.
+Attack-Constrict	+4;d8+2;5;  bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.

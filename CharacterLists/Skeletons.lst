@@ -1,0 +1,18 @@
+[Skeleton]
+initiativebase	2
+initiative	2,07
+hits	13
+temphits	0
+maxhits	13
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\skeleton.jpg
+location	
+size	5
+ac	13
+speed	
+hd	2d8
+cr	1/4
+abilities	Str:10;Dex:14;Con:15;Int:6;Wis:8;Cha:5;
+Stats	Damage vulnerabilities bludgeoning\n;Damage Immunities poison\n;Condition Immunities exhaustion, poisoned\n;Senses darkvision 60 ft., passive Perception 9\n;Languages understands all languages it knew in life but can't speak
+Attack-Shortsword	+5;d6+2;5; piercing damage
+Attack-Shortbow	+5;d6+2;5; piercing damage

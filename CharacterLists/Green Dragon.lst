@@ -1,0 +1,21 @@
+[Young Green Dragon]
+initiativebase	1
+initiative	17,67
+hits	136
+temphits	0
+maxhits	136
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\green dragon.jpg
+location	
+size	10
+ac	18
+speed	40 ft., fly 80 ft., swim 40 ft.
+hd	16d10
+cr	8
+abilities	Str:19;Dex:12*;Con:17*;Int:16;Wis:13*;Cha:15*;
+Stats	Skills Deception +5, Perception +7, Stealth +4\n;Damage Immunities: poison\n;Condition Immunities: poisoned\n;Senses: blindsight 30 ft., darkvision 120 ft., passive\n;Perception 17\n;Languages Common, Draconic\n;\n;Amphibious. The dragon can breathe air and water.\n;\n;The most cunning and treacherous of true dragons,\n;green dragons use misdirection and trickery to get the\n;upper hand against their enemies. A green dragon is\n;recognized by the crest that begins near its eyes and\n;continues down its spine,
+Poison Breath (5-6)	Poison Breath (Recharge 5-6): The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+Attack-Bite	+7;2d10+4+2d6;10; piercing damage plus 7 (2d6) poison damage.
+Attack-Claw	+7;2d6+4;5; slashing damage
+Attacks	Multiattack. The dragon makes three attacks: one with its bite and two with its claws.\n;Bite: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.\n;Claw: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\n;
+Multiattack. 1 bite, 2 claws	The dragon makes three attacks: one with its bite and two with its claws.

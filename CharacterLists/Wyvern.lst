@@ -1,0 +1,81 @@
+[Kobold rider]
+initiativebase	2
+initiative	1,79
+hits	12
+temphits	0
+maxhits	12
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Koboldrider.jpg
+location	
+size	3
+ac	12
+speed	40 ft.
+hd	4d6
+cr	2
+abilities	Str:7;Dex:15;Con:9;Int:8;Wis:7;Cha:8;
+Stats	Oma sovellus: sis‰lt‰‰ sek‰ ratsun, ett‰ Weaselin. J‰tt‰‰ weaselin jos ratsastaja kaadetaan. Molemmat "kaatuvat" jos k‰ytet‰‰n massatuhoa.\n;\n;Senses darkvision 60 ft., passive Perception 8\n;Languages Common, Draconic\n;\n;Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making.
+Sunlight Sensitivity	While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+Pack Tactics	The kobold has advantage on an attack roll against a creature if at least one of the koboldís allies is within 5 feet of the creature and the ally isnít incapacitated.
+Attack-Dagger	+4;d4+2;5; piercing damage
+Attack-Sling	+4;d4+2;30/120 ft.; bludgeoning damage
+Attack-Javelin	+0;d6-2;30/120 ft.; piercing damage
+Attack-Lance	+4;d8+2;5; piercing damage
+Double Move: rides 80 ft.	Kuten ratsut yleens‰, ratsu voi ottaa dash actionin.
+[Wyvern]
+initiativebase	0
+initiative	17,02
+hits	110
+temphits	0
+maxhits	110
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\wyvern.jpg
+location	
+size	10
+ac	13 (natural armor)
+speed	20 ft., fly 80 ft.
+hd	13d10
+cr	6
+abilities	Str:19;Dex:10;Con:16;Int:5;Wis:12;Cha:6;
+Attack-Bite	+7;2d6+4;10; piercing damage
+Attack-Claws	+7;2d8+4;5; slashing damage
+Attack-Stinger	+7;2d6+7;10; piercing damage, DC15 Con  save or 7d6 poison damage, half on success
+Stats	Multiattack. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.\n;\n;Skills Perception +4\n;Senses darkvision 60 ft., passive Perception 14\n;Languages N/A\n;\n;Stinger. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.\n;\n;Cousins to the great dragons, wyverns have two scaly legs, leathery wings, and a sinewy tail topped with a poison stinger that can kill a creature in seconds.
+[Wyvern Zombie]
+initiativebase	0
+initiative	14,24
+hits	110
+temphits	0
+maxhits	110
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\wyvern zombie.jpg
+location	
+size	10
+ac	13 (natural armor)
+speed	20 ft., fly 60 ft.
+hd	13d10
+cr	4
+abilities	Str:19;Dex:10;Con:16;Int:5;Wis:12;Cha:6;
+Stats	Undead Fortitude. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.\n;\n;\n;Oma luonnos t‰h‰n perustuen:\n;http://www.dandwiki.com/wiki/SRD:Wyvern_Zombie
+Attack-Slam	+6;2d6+6;10; bludgeoning damage
+Attack-Talons	+6;2d8+6;5; slashing damage
+Attack-Stinger	+6;2d4+6;10; piercing damage
+Attack-Bite	+6;2d6+6;10; piercing damage
+[Kobold]
+initiativebase	2
+initiative	2,87
+hits	5
+temphits	0
+maxhits	5
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\kobold.jpg
+location	
+size	3
+ac	12
+speed	30 ft.
+hd	2d6
+cr	1/8
+abilities	Str:7;Dex:15;Con:9;Int:8;Wis:7;Cha:8;
+Attack-Dagger	+4;d4+2;5; piercing damage
+Attack-Sling	+4;d4+2;30/120 ft.; bludgeoning damage
+Stats	Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n;\n;Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the koboldís allies is within 5 feet of the creature and the ally isnít incapacitated.\n;\n;Senses darkvision 60 ft., passive Perception 8\n;Languages Common, Draconic\n;\n;Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making.
+Attack-Javelin	+0;d6-2;30/120 ft.; piercing damage

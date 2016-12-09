@@ -1,0 +1,117 @@
+[Sutter]
+initiativebase	3
+initiative	11,28
+hits	107
+temphits	0
+maxhits	107
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Sutter.jpg
+location	87,5:43,375
+size	5
+ac	17 (Breastplate)
+speed	40
+hd	12d10
+cr	12 PC
+abilities	Str:20*;Dex:16;Con:16*;Int:16;Wis:16;Cha:15;
+Attack-Jaako	+9;2d6+6;5; slashing damage (+1 for now...)
+[Michel In]
+initiativebase	3
+initiative	18,18
+hits	60
+temphits	25
+maxhits	60
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\ominous_wizard_by_capprotti-d51w2g0.jpg
+location	84,375:58,375
+size	5
+ac	16 (mage armor)
+speed	30
+hd	10d6
+cr	10 PC
+abilities	Str:19;Dex:16;Con:16;Int:20*;Wis:11*;Cha:14;
+Attack-Ray of enfeeblement	+9;-;5;target hits with half damage
+Attack-Shocking grasp	+9;3d8;5;lightning damage
+[Azugar]
+initiativebase	5
+initiative	2,22
+hits	51
+temphits	0
+maxhits	51
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Enchantress.jpg
+location	64,125:42,625
+size	5
+ac	17
+speed	30 ft
+hd	12d6
+cr	12 PC
+abilities	Str:7;Dex:18;Con:14;Int:20*;Wis:13*;Cha:17;
+Attack-Long bow	+8;d8+4;150/600 ft.; piercing damage
+Attack-Fire bolt	+9;3d10;120; fire damage
+[Daerin]
+initiativebase	5
+initiative	20,74
+hits	87
+temphits	0
+maxhits	87
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\male_elven_archer_by_vynthallas-d3ehotf.jpg
+location	79,75:69
+size	5
+ac	17 (Studded leather)
+speed	30 ft
+hd	8d10
+cr	8 PC
+abilities	Str:16*;Dex:20;Con:16*;Int:15;Wis:13;Cha:14;
+Attack-Long bow	+10;d8+5;150/600ft; piercing damage
+[Verna]
+initiativebase	4
+initiative	20,64
+hits	37
+temphits	0
+maxhits	37
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\lightfoot_halfling__female__by_conceptopolis-d5rsk2u.jpg
+location	56,375:61
+size	5
+ac	15 (Leather)
+speed	25
+hd	
+cr	
+abilities	
+[Orsik]
+initiativebase	4
+initiative	13,15
+hits	72
+temphits	0
+maxhits	72
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Orsik.jpg
+location	78,125:50,875
+size	5
+ac	18
+speed	25 ft
+hd	11d8
+cr	11 PC
+abilities	Str:18;Dex:18*;Con:16;Int:13*;Wis:13;Cha:14;
+Attack-Shortsword	+8;d6+4;5; piercing damage
+Attack-Shortsword sneak	+8;7d6+4;5; piercing damage
+[Ghirstu]
+initiativebase	5
+initiative	13,9
+hits	66
+temphits	0
+maxhits	66
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\halfling.jpg
+location	78,125:50,875
+size	3
+ac	18
+speed	35
+hd	11d8
+cr	11 PC
+abilities	Str:11;Dex:20*;Con:18;Int:17*;Wis:15;Cha:12;
+Attack-Rapier +1	+10;d8+6;5; piercing damage
+Attack-Rapier +1 sneak	+10;d8+6+6d6;5; piercing damage
+Attack-Short bow	+9;d6+5;80/320; piercing damage
+Attack-Short bow sneak	+9;7d6+5;80/320; piercing damage

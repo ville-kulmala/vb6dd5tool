@@ -1,0 +1,17 @@
+[Ghirstu Ferromar]
+initiativebase	5
+initiative	12,48
+hits	30
+temphits	0
+maxhits	30
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Ghirstu.jpg
+location	78,125:50,875
+size	3
+ac	17
+speed	25
+hd	5d8
+cr	5 PC
+abilities	Str:11;Dex:20*;Con:18;Int:17*;Wis:15;Cha:12;
+Attack-Rapier	+8;d8+5;5; piercing damage
+Attack-Short bow	+8;d6+5;80/320; piercing damage

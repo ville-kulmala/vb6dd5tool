@@ -1,0 +1,18 @@
+[Owlbear]
+initiativebase	1
+initiative	18,09
+hits	59
+temphits	0
+maxhits	59
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\owlbear.jpg
+location	
+size	10
+ac	13 (natural armor)
+speed	40 ft
+hd	7d10
+cr	3
+abilities	Str:20;Dex:12;Con:17;Int:3;Wis:12;Cha:7;
+Status	Skills Perception +3\n;Senses darkvision 60 ft., passive Perception 13\n;\n;Multiattack. The owlbear makes two attacks: one with its beak and one with its claws.\n;\n;Keen Sight and Smell. The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.\n;\n;A monstrous cross between giant owl and bear, an owlbear’s reputation for ferocity and aggression makes it one of the most feared predators of the wild.
+Attack-Beak	+7;1d10+5;5; piercing damage
+Attack-Claws	+7;2d8+5;5; slashing damage

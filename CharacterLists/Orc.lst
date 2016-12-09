@@ -1,0 +1,111 @@
+[Ogre]
+initiativebase	-1
+initiative	18,79
+hits	59
+temphits	0
+maxhits	59
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\ogre.jpg
+location	108,75:48,0625
+size	10
+ac	11 (hide)
+speed	40
+hd	7d10
+cr	2
+abilities	Str:19;Dex:8;Con:16;Int:5;Wis:7;Cha:7;
+Stats	Senses: darkvision 60 ft., passive Perception 8\n;Languages Common, Giant\n;Ogres are hulking giants notorious for their quick tempers. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
+Attack-Greatclub	+6;3d8+4;5; bludgeoning damage
+Attack-Javelin	+6;2d6+4;30/120; piecing damage
+[Orc]
+initiativebase	1
+initiative	12,94
+hits	15
+temphits	0
+maxhits	15
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc.jpg
+location	94,875:61,3125
+size	5
+ac	13 (hide)
+speed	30
+hd	2d8
+cr	1/2
+abilities	Str:16;Dex:12;Con:16;Int:7;Wis:11;Cha:10;
+Stats	AC 13, Speed 30 ft, 100 XP\n;Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage. \n;\n;Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 16 (+3)\t; 12 (+1)\t; 16 (+3)\t; 7 (-2)\t; 11 (+0)\t; 10 (+0) \n;
+Attack-Greataxe	+5;1d12+3;5; slashing damage
+Attack-Javelin	+5;1d6+3;30/120; piecing damage
+[Orc Shaman]
+initiativebase	1
+initiative	6,82
+hits	45
+temphits	0
+maxhits	45
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc-shaman.jpg
+location	93,375:46,3125
+size	5
+ac	13 (hide)
+speed	30
+hd	6d8
+cr	3
+abilities	Str:16;Dex:12;Con:16;Int:7;Wis:16*;Cha:10;
+Stats	AC 13, Speed 30 ft, Chalenge 2 (450 XP)\n;Greataxe. +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage. \n;Javelin. +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 16 (+3)\t; 12 (+1)\t; 16 (+3)\t; 7 (-2)\t; 16 (+3)\t; 10 (+0) \n;Save: Wisdom +6\n;Hit Die: 6d8
+Spells	Cantrips: Resistance, Guidance, Sacred flame\n;1st level (4 slots): Bless, Bane, Cure Wounds, Command, Shield of Faith\n;2st level (3 slots): Hold Person, Blindness/Defness\n;3st level (3 slots): Bestow Curse, Dispel Magic, Counter spell
+Attack-Greataxe	+5;1d12+3;5; Slashing damage
+Attack-Javelin	+5;1d6+3;30/120; Piercing damage
+[Orc Khan]
+initiativebase	1
+initiative	5,67
+hits	86
+temphits	0
+maxhits	86
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc boss.jpg
+location	98,375:52,3125
+size	5
+ac	16 (scale +1)
+speed	30
+hd	9d8
+cr	5
+abilities	Str:18*;Dex:12;Con:18*;Int:12;Wis:12;Cha:14;
+Stats	Multiattack. Orc makes two attacks\n;Greataxe +1. +8 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slashing damage. \n;Javelin. +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 4) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see.
+Spells	Cantrips: Resistance, Guidance, Sacred flame\n;1st level (4 slots): Cure Wounds, Command, Shield of Faith\n;2st level (3 slots): Hold Person, Blindness/Defness\n;3st level (3 slots): Bestow Curse, Dispel Magic, Counter spell
+Attack-Javelin	+7;1d6+4;30/120; piercing damage
+Attack-Greataxe +1	+8;1d12+5;5; slashing damage
+[Orc Boss]
+initiativebase	1
+initiative	5,19
+hits	72
+temphits	0
+maxhits	72
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc boss.jpg
+location	94,125:38,6875
+size	5
+ac	15 (scale)
+speed	30
+hd	8d8
+cr	3
+abilities	Str:16*;Dex:12;Con:18*;Int:10;Wis:11;Cha:12;
+Stats	AC 15 (scale), Speed 30 ft, 700 XP\n;Multiattack. Orc makes two attacks\n;Greataxe. +7 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 4) slashing damage. \n;Javelin. +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 4) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 18 (+4)\t; 12 (+1)\t; 18 (+4)\t; 10 (+0)\t; 11 (+0)\t; 12 (+1) \n;\n;Hit Die: 74 (8d8+32)
+Spells	Cantrips: Resistance, Guidance, Sacred flame\n;1st level (4 slots): Cure Wounds, Command, Shield of Faith\n;2st level (3 slots): Hold Person, Blindness/Defness\n;3st level (3 slots): Bestow Curse, Dispel Magic, Counter spell
+Attack-Greataxe	+7;1d12+4;5; slashing damage
+Attack-Javelin	+7;1d6+4;30/120; piercing damage
+[Orc Archer]
+initiativebase	1
+initiative	3,32
+hits	15
+temphits	0
+maxhits	15
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc-archer.jpg
+location	100:46,6875
+size	5
+ac	14 (leather)
+speed	30
+hd	2d8
+cr	1/2
+abilities	Str:14;Dex:16;Con:16;Int:7;Wis:11;Cha:10;
+Stats	AC 14 (leather), Speed 30 ft, 100 XP\n;Battleaxe. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 2) slashing damage. Versatile (d8)\n;\n;Shortbow. Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 14 (+2)\t; 16 (+3)\t; 16 (+3)\t; 7 (-2)\t; 11 (+0)\t; 10 (+0) \n;
+Attack-Battleaxe	+4;1d10+2;5; Slashing damage
+Attack-Shortbow	+5;1d6+3;80/320; piercing damage

@@ -1,0 +1,22 @@
+[Arcanaloth (Mezoloth)]
+initiativebase	1
+initiative	17,61
+hits	104
+temphits	0
+maxhits	104
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\arcanaloth.jpg
+location	
+size	5
+ac	17 (natural armor)
+speed	
+hd	16d8
+cr	12
+abilities	Str:17;Dex:12*;Con:14;Int:20*;Wis:16*;Cha:17*;
+Stats	Skills: Arcana +13, Deception +9, Insight +9, Perception +7\n;Damage resistances: cold, fire, lightning; bludgeoning, piercing and slashing from nonmagical weapons.\n;Damage immunities: acid poison\n;Condition Immunities: charmed, poisoned\n;Senses: truesight 120 ft., passive perception 17\n;Languages: all, telepathy 120 ft.\n;
+Innate Spellcasting (DC 15 Cha)	Spellcastin ability: Charsima\n;Can innaely cast following spells, requiring no material components:\n;At Will: alter self, darkness, heat metal, invisibility (self only), magic missile
+Spellcasting (Int DC 17, +9)	Arcanaloth is 16th-level spellcaster.\n;Spellcastin ability: Intelligence, save DC 17, +9 to hit\n;\n;Following wizards spellcs prepared:\n;Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation\n;1st level (4 slots): detect magic, identify, shield, Tenser's floating disk\n;2nd level (3 slots): detect toughts, mirror image, phantasmal force, suggestion\n;3rd level (3 slots): counter spell, fear, fireball\n;4th level (3 slots): banishment, dimension door\n;5th level (2 slots): contact other plane, hold monster\n;6th level (1 slot): chain lightning\n;7th level (1 slot): finger of death\n;8th level (1 slot): mind blank
+Magic Resistance	Advantage on saving throws against spells and other magical effects.
+Magic weapons	Weapon attacks are magical.
+Action: Teleport 60'	Teleports with equ and carry: 60 feet to an unoccupied space it can see.
+Attack-Claws	+7;2d4+3;5; slashing damage. DC14 Con save or 3d6 Poison damage (half on save)

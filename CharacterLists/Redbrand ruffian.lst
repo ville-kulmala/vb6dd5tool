@@ -1,0 +1,19 @@
+[Redbrand Ruffian]
+initiativebase	2
+initiative	13,68
+hits	16
+temphits	0
+maxhits	16
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\Redbrand.jpg
+location	
+size	5
+ac	14 (studded leather armor)
+speed	
+hd	3d8
+cr	1/2
+abilities	Str:11;Dex:14;Con:12;Int:9;Wis:9;Cha:11;
+notes	
+Stats	Skills: Intimidation +2\n;Senses: Passive perception 9\n;Languages: common\n;\n;Redbrand ruffians are petty thugs and ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.
+Multiattack: two melee attacks	Makes two melee attacks.
+Attack-Shortsword	+4;d6+2;5; piercing damage

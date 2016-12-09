@@ -1,0 +1,74 @@
+[Orc]
+initiativebase	1
+initiative	19,43
+hits	15
+temphits	0
+maxhits	15
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc.jpg
+location	178:30,66
+size	5
+Stats	AC 13, Speed 30 ft, 100 XP\n;Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage. \n;\n;Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 16 (+3)\t; 12 (+1)\t; 16 (+3)\t; 7 (-2)\t; 11 (+0)\t; 10 (+0) \n;
+[Orc 1]
+initiativebase	1
+initiative	3,12
+hits	15
+temphits	0
+maxhits	15
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc.jpg
+location	168,24:30,74
+size	5
+Stats	AC 13, Speed 30 ft, 100 XP\n;Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage. \n;\n;Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 16 (+3)\t; 12 (+1)\t; 16 (+3)\t; 7 (-2)\t; 11 (+0)\t; 10 (+0) \n;
+[Orc 2]
+initiativebase	1
+initiative	20,99
+hits	-10
+temphits	0
+maxhits	15
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc.jpg
+location	177,76:41,86
+size	5
+Stats	AC 13, Speed 30 ft, 100 XP\n;Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage. \n;\n;Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 16 (+3)\t; 12 (+1)\t; 16 (+3)\t; 7 (-2)\t; 11 (+0)\t; 10 (+0) \n;
+[Orc 3]
+initiativebase	1
+initiative	9,28
+hits	15
+temphits	0
+maxhits	15
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\orc.jpg
+location	161,2267:38,8
+size	5
+Stats	AC 13, Speed 30 ft, 100 XP\n;Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage. \n;\n;Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n;\n;Aggressive. As a bonus action, the orc can move up to its speed \n;toward a hostile creature that it can see. \n;\n; STR\t; DEX\t;CON\t; INT\t; WIS\t; CHA \n; 16 (+3)\t; 12 (+1)\t; 16 (+3)\t; 7 (-2)\t; 11 (+0)\t; 10 (+0) \n;
+[Sutter]
+initiativebase	3
+initiative	14,5
+hits	53
+temphits	0
+maxhits	53
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Sutter.jpg
+location	145,3933:58,16
+size	5
+[Azugar]
+initiativebase	4
+initiative	20,34
+hits	20
+temphits	0
+maxhits	20
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Enchantress.jpg
+location	139,7067:58,25333
+size	5
+[Verna]
+initiativebase	4
+initiative	24,24
+hits	30
+temphits	0
+maxhits	30
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\lightfoot_halfling__female__by_conceptopolis-d5rsk2u.jpg
+location	151,2467:55,28667
+size	5

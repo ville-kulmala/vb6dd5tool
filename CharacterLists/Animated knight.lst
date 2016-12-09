@@ -1,0 +1,37 @@
+[Flying Sword]
+initiativebase	2
+initiative	14,32
+hits	17
+temphits	0
+maxhits	17
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Flying sword.jpg
+location	
+size	5
+ac	17
+speed	50 fly
+hd	5D6
+cr	1/4
+abilities	Str:12;Dex:15*;Con:11;Int:1;Wis:3;Cha:1;
+Stats	Saving Throws Dex +4\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 7\n;Challenge 1/4 (50 XP)
+Attacks	Longsword: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.\n;A magically animated flying sword dances through the\n;air, fighting like a warrior that can’t be injured
+Special	Antimagic Susceptibility. The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;\n;False Appearance. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword
+Attack-Longsword	+3;d8+1;5; slashing damage
+[Animated Armor]
+initiativebase	0
+initiative	15,17
+hits	33
+temphits	0
+maxhits	33
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Animated Armor.jpg
+location	
+size	5
+ac	18
+speed	25
+hd	6d8
+cr	1
+abilities	Str:14;Dex:11;Con:13;Int:1;Wis:3;Cha:1;
+Stats	*Multiattack.* The armor makes two melee attacks.\n;\n;Damage Immunities poison, psychic\n;Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned\n;Senses blindsight 60 ft. (blind beyond this radius), passive Perception 6\n;Challenge 1 (200 XP)
+Special	Antimagic Susceptibility. The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.\n;False Appearance. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+Attack-Slam	+4;d6+2;5; bludgeoning damage

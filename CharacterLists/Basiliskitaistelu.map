@@ -1,0 +1,190 @@
+[map]
+main picture : C:\Users\AVACK\Dropbox\DD5\Karttoja\Synknummen-kartano\Koboldiluola-sis‰‰nk‰ynti-59px5ft.jpg
+form location : 4116;0;12792;10176
+picture location : -5484;-2076;38777;28744
+scaling : 59
+[element]
+transparency : 168
+alphacolor : 0
+areatype : ball
+location : 6468;2640;2360;2360
+backcolor : 0
+fillcolor : 255
+picturefile : 
+[element]
+transparency : 168
+alphacolor : 16776833
+areatype : ball
+location : 7320;1776;2360;2360
+backcolor : 16776833
+fillcolor : 16777088
+picturefile : 
+[Riding Horse 1]
+initiativebase	0
+initiative	17,11
+hits	13
+temphits	0
+maxhits	13
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\horse.jpg
+location	527,9492:62,67797
+size	10
+ac	10
+speed	60 ft
+hd	2d10
+cr	1/4
+abilities	Str:16;Dex:10;Con:12;Int:2;Wis:11;Cha:7;
+Attack-Hooves	+2;2d4+3;5; bludgeoning damage
+[Liisa]
+initiativebase	5
+initiative	16,87
+hits	41
+temphits	0
+maxhits	48
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\halfling.jpg
+location	479,9407:32,33051
+size	3
+ac	17
+speed	25
+hd	3d8
+cr	3 PC
+abilities	Str:11;Dex:20*;Con:18;Int:17*;Wis:15;Cha:12;
+Attack-Rapier	+7;d8+5;5; piercing damage
+Attack-Short bow	+7;d6+5;80/320; piercing damage
+[Sutter]
+initiativebase	3
+initiative	14,1
+hits	53
+temphits	0
+maxhits	53
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Sutter.jpg
+location	485,5508:111,178
+size	5
+ac	17 (Breastplate)
+speed	30
+hd	
+cr	
+abilities	
+[Riding Horse 2]
+initiativebase	0
+initiative	12,36
+hits	13
+temphits	0
+maxhits	13
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\horse.jpg
+location	309,2128:33,46809
+size	10
+ac	10
+speed	60 ft
+hd	2d10
+cr	1/4
+abilities	Str:16;Dex:10;Con:12;Int:2;Wis:11;Cha:7;
+Attack-Hooves	+2;2d4+3;5; bludgeoning damage
+[Azugar]
+initiativebase	4
+initiative	8,82
+hits	9
+temphits	0
+maxhits	23
+status	Invis
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Enchantress.jpg
+location	478,6187:41,85593
+size	5
+ac	15
+speed	30 ft
+hd	
+cr	
+abilities	
+[Riding Horse]
+initiativebase	0
+initiative	6,17
+hits	13
+temphits	0
+maxhits	13
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\horse.jpg
+location	309,9787:40,41489
+size	10
+ac	10
+speed	60 ft
+hd	2d10
+cr	1/4
+abilities	Str:16;Dex:10;Con:12;Int:2;Wis:11;Cha:7;
+Attack-Hooves	+2;2d4+3;5; bludgeoning damage
+[Basilisk]
+initiativebase	-1
+initiative	16,4
+hits	-7
+temphits	0
+maxhits	52
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\basilisk.jpg
+location	272,7021:56,19149
+size	10
+ac	15
+speed	20
+hd	8d8
+cr	3
+abilities	Str:16;Dex:8;Con:15;Int:2;Wis:8;Cha:7;
+Stats	*Petrifying Gaze*. If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic. A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save. If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.\n;\n;Senses darkvision 60 ft., passive Perception 9\n;Languages -\n;\n;A basilisk is a multilegged, reptilian horror whose deadly gaze transforms victims into porous stone. With it strong jaws, the creature consumes this stone, which returns to organic form in its gullet.
+Attack-Bite	+5;2d6+3+2d6;5; piercing damage (2d6 poison)
+[Kobold]
+initiativebase	2
+initiative	2,53
+hits	-10
+temphits	0
+maxhits	22
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\winged kobold.jpg
+location	270,3298:26,30851
+size	3
+ac	12
+speed	30 ft.
+hd	8d6
+cr	5
+abilities	Str:7;Dex:15;Con:9;Int:8;Wis:7;Cha:14;
+Attack-Dagger	+4;d4+2;5; piercing damage
+Attack-Sling	+4;d4+2;30/120 ft.; bludgeoning damage
+Stats	Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n;\n;Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the koboldís allies is within 5 feet of the creature and the ally isnít incapacitated.\n;\n;Senses darkvision 60 ft., passive Perception 8\n;Languages Common, Draconic\n;\n;Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making.
+Attack-Javelin	+0;d6-2;30/120 ft.; piercing damage
+[Kobold 1]
+initiativebase	2
+initiative	2,77
+hits	-12
+temphits	0
+maxhits	5
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\kobold.jpg
+location	
+size	3
+ac	12
+speed	30 ft.
+hd	2d6
+cr	1/8
+abilities	Str:7;Dex:15;Con:9;Int:8;Wis:7;Cha:8;
+Attack-Dagger	+4;d4+2;5; piercing damage
+Attack-Sling	+4;d4+2;30/120 ft.; bludgeoning damage
+Stats	Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n;\n;Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the koboldís allies is within 5 feet of the creature and the ally isnít incapacitated.\n;\n;Senses darkvision 60 ft., passive Perception 8\n;Languages Common, Draconic\n;\n;Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making.
+Attack-Javelin	+0;d6-2;30/120 ft.; piercing damage
+[Kobold 2]
+initiativebase	2
+initiative	1,89
+hits	4
+temphits	0
+maxhits	5
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\kobold.jpg
+location	
+size	3
+ac	12
+speed	30 ft.
+hd	2d6
+cr	1/8
+abilities	Str:7;Dex:15;Con:9;Int:8;Wis:7;Cha:8;
+Attack-Dagger	+4;d4+2;5; piercing damage
+Attack-Sling	+4;d4+2;30/120 ft.; bludgeoning damage
+Stats	Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n;\n;Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the koboldís allies is within 5 feet of the creature and the ally isnít incapacitated.\n;\n;Senses darkvision 60 ft., passive Perception 8\n;Languages Common, Draconic\n;\n;Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making.
+Attack-Javelin	+0;d6-2;30/120 ft.; piercing damage

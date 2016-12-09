@@ -1,0 +1,20 @@
+[Spirit Naga]
+initiativebase	3
+initiative	13,45
+hits	75
+temphits	0
+maxhits	75
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\spirit-naga.jpg
+location	
+size	10
+ac	15 (natural armor)
+speed	40 ft.
+hd	10d10
+cr	8
+abilities	Str:18;Dex:17*;Con:14*;Int:16;Wis:15*;Cha:16*;
+notes	
+Stats	Damage Immunities: poison\n;Condition Immunities: charmed, poisoned\n;Senses: darkvision 60 ft., Passive perception 12\n;Languages: abyssal, common
+Rejuvenation: 1d6 days	If it dies, naga returns to life in 1d6 days and regains all its hit points. Only a wish spell will prevent this trait from functioning.
+Spell casting: DC14, +6 to hit	The naga is 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the followinv wizard spells prepared:\n;\n;Cantrips (at will): mage hand, minor illusion, ray of frost\n;1st level (4 slots): charm person, detect magic, sleep\n;2nd level (3 slots): detect thoughts, hold person\n;3rd level (3 slots): lightning bolt, water breathing\n;4th level (3 slots): blight, dimension door\n;5th level (2 slots): dominate person
+Attack-Bite	+7;d6+4;10; piercing damage, DC13 con save vs. 7d6 poison damage, save halves

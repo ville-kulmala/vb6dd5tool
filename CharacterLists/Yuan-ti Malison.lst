@@ -1,0 +1,74 @@
+[Yuan-Ti Malison Type 1]
+initiativebase	2
+initiative	18,25
+hits	66
+temphits	0
+maxhits	66
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\yuan-ti malison type 1.jpg
+location	
+size	5
+ac	12
+speed	30 ft.
+hd	12d8
+cr	3
+abilities	Str:16;Dex:14;Con:13;Int:14;Wis:12;Cha:16;
+notes	
+STATS	Skills Deception +5, Stealth +4\n;Damage Immunities poison\n;Condition Immunities poisoned\n;Senses darkvision 60 ft., passive Perception 11\n;Languages Abyssal, Common, Draconic
+Shapechanger: snakeform	The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
+Innate Spellcasting (Yuan-ti Form Only): DC13	The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:\n;At will: animal friendship (snakes only)\n;3/day: suggestion
+Magic Resistance	The yuan-ti has advantage on saving throws against spells and other magical effects.
+Malison Type	The yuan-ti has one of the following types:\n;Type 1: Human body with snake head\n;Type 2: Human head and body with snakes for arms\n;Type 3: Human head and upper body with a serpentine lower body instead of legs
+Multiattack (Yuan-ti Form Only): two weapon attacks	The yuan-ti makes two ranged attacks or two melee attacks, but can use its bite only once.
+Attack-Bite	+5;d4+3;5; piercing damage plus 7 (2d6) poison damage.
+Attack-Scimitar (Yuan-ti Form Only)	+5;d6+3;5; slashing damage
+Attack-Longbow (Yuan-ti Form Only)	+4;d8+2;150/600 ft.; piercing damage plus 7 (2d6) poison damage.
+[Yuan-Ti Malison Type 2]
+initiativebase	2
+initiative	17,81
+hits	66
+temphits	0
+maxhits	66
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\yuan-ti malison type 2.jpg
+location	
+size	5
+ac	12
+speed	30 ft.
+hd	12d8
+cr	3
+abilities	Str:16;Dex:14;Con:13;Int:14;Wis:12;Cha:16;
+notes	
+STATS	Skills Deception +5, Stealth +4\n;Damage Immunities poison\n;Condition Immunities poisoned\n;Senses darkvision 60 ft., passive Perception 11\n;Languages Abyssal, Common, Draconic
+Shapechanger: snakeform	The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
+Innate Spellcasting (Yuan-ti Form Only): DC13	The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:\n;At will: animal friendship (snakes only)\n;3/day: suggestion
+Magic Resistance	The yuan-ti has advantage on saving throws against spells and other magical effects.
+Malison Type	The yuan-ti has one of the following types:\n;Type 1: Human body with snake head\n;Type 2: Human head and body with snakes for arms\n;Type 3: Human head and upper body with a serpentine lower body instead of legs
+Multiattack (Yuan-ti Form Only): two bites	The yuan-ti makes two bite attacks using its snake arms.
+Attack-Bite	+5;d4+3;5; piercing damage plus 7 (2d6) poison damage.
+[Yuan-Ti Malison Type 3]
+initiativebase	2
+initiative	17,56
+hits	66
+temphits	0
+maxhits	66
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\yuan-ti malison type 3.jpg
+location	
+size	5
+ac	12
+speed	30 ft.
+hd	12d8
+cr	3
+abilities	Str:16;Dex:14;Con:13;Int:14;Wis:12;Cha:16;
+notes	
+STATS	Skills Deception +5, Stealth +4\n;Damage Immunities poison\n;Condition Immunities poisoned\n;Senses darkvision 60 ft., passive Perception 11\n;Languages Abyssal, Common, Draconic
+Shapechanger: snakeform	The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
+Innate Spellcasting (Yuan-ti Form Only): DC13	The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:\n;At will: animal friendship (snakes only)\n;3/day: suggestion
+Magic Resistance	The yuan-ti has advantage on saving throws against spells and other magical effects.
+Malison Type	The yuan-ti has one of the following types:\n;Type 1: Human body with snake head\n;Type 2: Human head and body with snakes for arms\n;Type 3: Human head and upper body with a serpentine lower body instead of legs
+Multiattack (Yuan-ti Form Only): two attacks	The yuan-ti makes two ranged attacks or two melee attacks, but can constrict only once.
+Attack-Bite (Snake Form Only)	+5;d4+3;5; piercing damage plus 7 (2d6) poison damage.
+Attack-Constrict	+5;2d6+3;5; bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
+Attack-Scimitar (Yuan-ti Form Only)	+5;d6+3;5; slashing damage
+Attack-Longbow (Yuan-ti Form Only)	+4;d8+2;150/600 ft.; piercing damage

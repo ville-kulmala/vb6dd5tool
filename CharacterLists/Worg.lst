@@ -1,0 +1,19 @@
+[Worg]
+initiativebase	1
+initiative	14,74
+hits	26
+temphits	0
+maxhits	26
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\worg.jpg
+location	
+size	5
+ac	13 (natural armor)
+speed	
+hd	4d10
+cr	1/2
+abilities	Str:16;Dex:13;Con:13;Int:7;Wis:11;Cha:8;
+notes	
+Stats	Skills Perception +4\n;Senses darkvision 60 ft., passive Perception 14\n;Languages Goblin, Worg
+Keen Hearing and Smell	The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Attack-Bite	+5;2d6+3;5; piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.

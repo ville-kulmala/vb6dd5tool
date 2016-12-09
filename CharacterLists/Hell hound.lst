@@ -1,0 +1,19 @@
+[Hell hound]
+initiativebase	1
+initiative	6,53
+hits	45
+temphits	0
+maxhits	45
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\hell-hound.jpg
+location	
+size	5
+ac	15 (natural armor)
+speed	
+hd	7d8
+cr	3
+abilities	Str:17;Dex:12;Con:14;Int:6;Wis:13;Cha:6;
+Stats	Skills Perception +5\n;Damage Immunities fire\n;Senses darkvision 60 ft., passive Perception 15\n;Languages understands Infernal but can't speak it\n;\n;Keen Hearing and Smell. The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics	The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+Attack-Bite	+5;d8+3+2d6;5; piercing damage (2d6 fire)
+Fire Breath (Recharge 5+)	The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.\n;Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly serve evil creatures that use them as guard animals and companions.

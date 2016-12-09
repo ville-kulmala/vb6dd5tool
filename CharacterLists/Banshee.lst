@@ -1,0 +1,19 @@
+[Banshee]
+initiativebase	2
+initiative	8,56
+hits	58
+temphits	0
+maxhits	58
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\banshee.jpg
+location	
+size	5
+ac	12
+speed	40 ft. fly (hover)
+hd	13d8
+cr	4
+abilities	Str:1;Dex:14;Con:10;Int:12;Wis:11*;Cha:17*;
+Stats	*Detect Life.* The banshee can magically sense the presence of living creatures up to 5 miles away. She knows the general direction they're in but not their exact locations.\n;*Incorporeal Movement.* The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.\n;\n;Damage Resistances acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons\n;Damage Immunities cold, necrotic, poison\n;Condition Immunities charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained\n;Senses darkvision 60 ft., passive Perception 10\n;Languages Common, Elvish
+Attack-Corrupting Touch	+4;3d6+2;5; necrotic damage
+Horrifying Visage	Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
+Wail (1/day)	The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage

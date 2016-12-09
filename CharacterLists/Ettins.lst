@@ -1,0 +1,18 @@
+[Ettin]
+initiativebase	-1
+initiative	4,16
+hits	85
+temphits	0
+maxhits	85
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Ettin.jpg
+location	
+size	10
+ac	12
+speed	40
+hd	10d10
+cr	4
+abilities	Str:21;Dex:8;Con:17;Int:6;Wis:10;Cha:8;
+Stats	Two Heads. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned and knocked unconscious.\n;Wakeful. When one of the ettin's heads is asleep, its other head is awake.\n;\n;Multiattack. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+Attack-Battleaxe	+7;2d8+7;5; slashing damage
+Attack-Morningstar	+7;2d8+7;5; piercing damage

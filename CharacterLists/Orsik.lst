@@ -1,0 +1,20 @@
+[Orsik (Aki)]
+initiativebase	4
+initiative	19,04
+hits	67
+temphits	0
+maxhits	67
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Orsik.jpg
+location	
+size	5
+ac	18 (half plate)
+speed	
+hd	10d8
+cr	10
+abilities	Str:18;Dex:18*;Con:16;Int:13*;Wis:13;Cha:14;
+notes	
+Attack-Short Sword	+8;d6+4;5; piercing damage
+Attack-Light crossbow	+8;d8+4;80/320; piercing damage
+STATS	Korttimies
+Sneak Attack 5d6	

@@ -1,0 +1,23 @@
+[Treant]
+initiativebase	-1
+initiative	17,54
+hits	138
+temphits	0
+maxhits	138
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\treant.jpg
+location	
+size	15
+ac	16 (natural armor)
+speed	
+hd	12d12
+cr	9
+abilities	Str:23;Dex:8;Con:21;Int:12;Wis:16;Cha:12;
+STATS	Damage Resistance: bludgeoning, piercing\n;Damage Vulnerabilities: fire\n;Senses: passive Perception 13\n;Languages: Common, Druidic, Elvish, Sylvan
+False Appearance	While the treant remains motionless, it is indistinguishable from a normal tree.
+Siege Monster	¨Deals double damage to objects and structures.
+Multiattack: 2 x slam	The treant makes two slam attacks,
+notes	
+Attack-Slam	+10;3d6+6;5; bludgeoning damage
+Attack-Rock	+10;4d10+6;60/180; bludgeoning damage
+Animate Tress (1/day)	The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they only have the Slam action option. An animated tree acts as an ally of the treant.\n;The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree: or until the treant takes a bonus action to turn  it back into an ainamiate tree. The tree then takes root if possible.

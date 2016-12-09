@@ -1,0 +1,20 @@
+Title	Wilderness, day time
+Propability	35%
+2	Orc:2d6;Warg:d3-1;Orc Boss:d2-1;Orc Archer:d8-1
+3	Goblin:2d6;Hobgoblin:1d6;Bugbear:1d4;Warg:d4-1
+1	Bandit:2d4;Redbrand Ruffian:1d4-1;Thug:d4
+1	Merchants;Commoner:d4
+1	Zenthilar:2d6;Acolyte:d4-2;
+1	Merchant caravan camp;Commoner:2d6;Acolyte:1d3-2;Guard:2d4
+1	Barbarians;Berserker:2d6;Commoner:2d6
+2	Ogre:2d3-1
+2	Stirge:2d6
+2	Owlbear:d2-1
+1	Ghoul:2d6
+2	Wolf:2d6
+1	Acolyte of Loviatar:2d4;Cultist:2d4
+1	Hill Giant:d4
+1	Spectre:1
+1	Swarm of insects:d4
+1	Troll:d4-1
+1	%double%

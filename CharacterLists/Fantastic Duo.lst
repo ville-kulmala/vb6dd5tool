@@ -1,0 +1,46 @@
+[Kng'Ogtog]
+initiativebase	3
+initiative	14,67
+hits	80
+temphits	0
+maxhits	80
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\black-barbarian.jpg
+location	78,125:50,875
+size	5
+ac	17
+speed	40
+hd	6d12
+cr	6 PC
+abilities	Str:17*;Dex:17;Con:18*;Int:12;Wis:12;Cha:14;
+Attack-Claive	+6;d10+3;10; slashing damage
+[Lem the Thief]
+initiativebase	4
+initiative	21
+hits	36
+temphits	0
+maxhits	36
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\Fighter.jpg
+location	87,5:43,375
+size	5
+ac	
+speed	
+hd	
+cr	
+abilities	
+[M'bwana]
+initiativebase	3
+initiative	16,54
+hits	68
+temphits	0
+maxhits	68
+status	
+picturefile	C:\Documents and Settings\Ville\My Documents\Dropbox\DD5\pics\garden_gnome_by_duplex2.jpg
+location	78,125:50,875
+size	5
+ac	
+speed	
+hd	
+cr	
+abilities	

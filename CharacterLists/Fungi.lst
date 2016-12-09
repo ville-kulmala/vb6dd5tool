@@ -1,0 +1,17 @@
+[Violet Fungus]
+initiativebase	-5
+initiative	14,77
+hits	18
+temphits	0
+maxhits	18
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\violet fungus.jpg
+location	
+size	5
+ac	5
+speed	5 ft.
+hd	4d8
+cr	1/4
+abilities	Str:3;Dex:1;Con:10;Int:1;Wis:3;Cha:1;
+Stats	Multiattack. The fungus makes 1d4 Rotting Touch attacks.\n;\n;False Appearance. While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.\n;\n;Condition Immunities blinded, deafened, frightened\n;Senses blindsight 30 ft. (blind beyond this radius), passive Perception 6\n;\n;
+Attack-Rotting Touch	+2;1d8;10 ft; necrotic damage

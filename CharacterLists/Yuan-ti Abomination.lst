@@ -1,0 +1,25 @@
+[Yuan-ti Abomination]
+initiativebase	3
+initiative	15,73
+hits	127
+temphits	0
+maxhits	127
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\yuan-ti abomination.jpg
+location	
+size	5
+ac	15 (natural armor)
+speed	
+hd	15d10
+cr	7
+abilities	Str:19;Dex:16;Con:17;Int:17;Wis:15;Cha:18;
+STATS	Skills Perception +5, Stealth +6\n;Damage Immunities poison\n;Condition Immunities poisoned\n;Senses darkvision 60 ft., passive Perception 15\n;Languages Abyssal, Common, Draconic
+Shapechanger: large snake	The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
+Innate Spellcasting DC15 (Yuan-ti Form Only)	The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan-ti can innately cast the following spells, requiring no material components:\n;At will: animal friendship (snakes only)\n;3/day: suggestion\n;1/day: fear
+notes	
+Magic Resistance	The yuan-ti has advantage on saving throws against spells and other magical effects.
+Multiattack: 2x ranged or 3x melee (Abomination form only)	The yuan-ti makes two ranged attacks or three melee attacks, but can use its bite and constrict attack only once each.
+Attack-Bite	+7;d6+4;5; piercing damage plus 10 (3d6) poison damage.
+Attack-Constrict	+7;2d6+4;10; bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
+Attack-Scimitar	+7;2d6+4;5; slashing damage
+Attack-Long bow	+7;2d8+4;150/600 ft; piercing damage plus 10 (3d6) poison damage

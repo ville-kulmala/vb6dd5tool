@@ -1,0 +1,36 @@
+[Kyton]
+initiativebase	3
+initiative	18,16
+hits	85
+temphits	0
+maxhits	85
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\Kyton.jpg
+location	
+size	5
+ac	16 (natural armor)
+speed	30 ft.
+hd	10d8
+cr	8
+abilities	Str:18;Dex:15;Con:18*;Int:11;Wis:12*;Cha:14*;
+Stats	*Multiattack.* Two chain attacks\n;\n;*Magic Resistance.* The devil has advantage on saving throws against spells and other magical effects.\n;\n;Skills Deception +5, Insight +5, Perception +8\n;Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered\n;Damage Immunities fire, poison\n;Condition Immunities poisoned\n;Senses darkvision 120 ft., passive Perception 18\n;Languages Infernal, telepathy 120 ft.\n;
+Attack-Chain	+8;2d6+4;10; slashing damage, grappled (DC14), 2d6@ start of turn, only one
+[Barbed devil]
+initiativebase	3
+initiative	15,47
+hits	110
+temphits	0
+maxhits	110
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\barbed-devil.jpg
+location	
+size	5
+ac	15 (natural armor)
+speed	30 ft.
+hd	13d8
+cr	5
+abilities	Str:16*;Dex:17;Con:18*;Int:12;Wis:14*;Cha:14*;
+Stats	*Multiattack.* The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.\n;\n;*Barbed Hide.* At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.\n;*Devil's Sight.* Magical darkness doesn't impede the devil's darkvision.\n;*Magic Resistance.* The devil has advantage on saving throws against spells and other magical effects.\n;\n;Skills Deception +5, Insight +5, Perception +8\n;Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered\n;Damage Immunities fire, poison\n;Condition Immunities poisoned\n;Senses darkvision 120 ft., passive Perception 18\n;Languages Infernal, telepathy 120 ft.\n;
+Attack-Claw	+6;d6+3;5; piercing damage
+Attack-Tail	+6;2d6+3;5; piercing damage
+Attack-Hurl flame	+5;3d6;150 ft.; fire damage.  If the target is a flammable object that isn't being worn or carried, it also catches fire.

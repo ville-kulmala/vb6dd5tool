@@ -1,0 +1,22 @@
+[Destrachan]
+initiativebase	3
+initiative	14,46
+hits	93
+temphits	0
+maxhits	93
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Destrachan.jpg
+location	
+size	5
+ac	18 (natural)
+speed	
+hd	11d10
+cr	5
+abilities	Str:16;Dex:16;Con:17;Int:7;Wis:10;Cha:10;
+notes	
+STATS	Skills Deception +6, Stealth +2\n;Damage Resistances thunder\n;Condition Immunities blinded\n;Senses blindsight 60 ft. or 20 ft. while deafened (blind beyond this radius), passive Perception 10\n;Languages Deep Speech, Undercommon
+Clawed Feet	The destrachan treats difficult terrain as normal terrain.
+Multiattack: 2x Claw + Vocal Blast or Bark	The destrachan makes 3 attacks, two with its claws and one with its bark or Vocal Blast 
+Attack-Claws	+6;2d4+3;5; slashing damage
+Attack-Bark	+3;2d4+5;5; thunder damage
+Vocal Blast (Recharge 5-6)	Ranged Spell Attack: +3 to hit, range 30 ft. cone range Hit: 12 (2d6 + 5) thunder damage and targets must succeed DC 13 Constitution save or be deafened for 1 minute. 

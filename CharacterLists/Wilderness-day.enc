@@ -1,0 +1,14 @@
+Title	Wilderness, day time
+Propability	35%
+1	Orc:2d6;Warg:d3-1
+2	Goblin:2d6;Hobgoblin:1d6;Bugbear:1d4;Warg:d4-1
+1	Bandit:2d6;Thug:d4;Redbrand Ruffian:1d4-1
+2	Merchants;Commoner:d4
+2	Zenthilar:2d6;Acolyte:d4-2;
+1	Merchant caravan;Commoner:2d6;Acolyte:1d3-2;Guard:2d4
+1	Barbarians;Berserker:2d6;Commoner:2d6
+1	Ogre:2d3-1
+1	Stirge:2d6
+1	Owlbear:d2-1
+1	Acolyte of Loviatar:2d4;Cultist:2d4
+1	%double%

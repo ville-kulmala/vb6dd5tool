@@ -1,0 +1,16 @@
+[Riding Horse]
+initiativebase	0
+initiative	3,74
+hits	13
+temphits	0
+maxhits	13
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\horse.jpg
+location	435,3729:74,79661
+size	10
+ac	10
+speed	60 ft
+hd	2d10
+cr	1/4
+abilities	Str:16;Dex:10;Con:12;Int:2;Wis:11;Cha:7;
+Attack-Hooves	+2;2d4+3;5; bludgeoning damage

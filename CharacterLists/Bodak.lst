@@ -1,0 +1,41 @@
+[Bodak rev]
+initiativebase	2
+initiative	21,54
+hits	54
+temphits	0
+maxhits	54
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\bodak.jpg
+location	
+size	5
+ac	15 (natural)
+speed	
+hd	8d8
+cr	6
+abilities	Str:13;Dex:14;Con:15;Int:6;Wis:12;Cha:12;
+Stats	Damage resistances: acid, fire\n;Damage Immunities: lightning, poison\n;Condition Immunities: exhaustion, poisoned\n;Skills: Stealth +5, Perception +7\n;Senses: darkvision 60 ft., passive Perception 17\n;Languages: the languages it knew in life\n;\n;UNOFFICIAL\n;https://drive.google.com/a/pcsstn.com/file/d/0B5BID-ga3aGwTk9HUVppUUR5dVk/view\n;Demongnomes Manual of Monsters.pdf\n;Itse s‰‰detty gaze (save halvista negateksi)
+Vulnerability to sunlight: 1 hit per round	Bodaks loathe sunlight, for its merest touch burns their impure flesh. Each round of exposure to the direct rays of the sun deals 1 point of damage to the creature.
+Death gaze (Action, Con DC15, 8d10)	Range: 30 feet, Constitution DC 15 negates.\n;Damage: 8d10 necrotic damage, save negates, reduces maximum until long rest\n;Humanoids who die from this attack are transformed into bodaks 24 hours later. The save DC is Charisma-based.
+Attack-Slam	+4;d8+1;5; bludgeoning damage
+Multiattack: 2 slams	Bodak makes two slam attacks.
+notes	
+[Bodak]
+initiativebase	2
+initiative	22,25
+hits	45
+temphits	0
+maxhits	45
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\bodak.jpg
+location	
+size	5
+ac	15 (natural)
+speed	
+hd	10d8
+cr	5
+abilities	Str:13;Dex:15;Con:10;Int:6;Wis:12*;Cha:12*;
+Stats	Damage resistances: acid, fire, necrotic; bludgeoning, piercing and slashing from nonmagical weapons that aren't made from cold iron\n;Damage Immunities: lightning, poison\n;Condition Immunities: exhaustion, poisoned\n;Senses: darkvision 60 ft.\n;Languages: the languages it knew in life\n;\n;UNOFFICIAL
+Vulnerability to sunlight: 1 hit per round	Bodaks loathe sunlight, for its merest touch burns their impure flesh. Each round of exposure to the direct rays of the sun deals 1 point of damage to the creature.
+Death gaze (Action, Con DC15, 8d10)	Range: 30 feet, Constitution DC 15 negates.\n;Damage: 3d6 necrotic damage, save negates, reduces maximum until long rest\n;Humanoids who die from this attack are transformed into bodaks 24 hours later. The save DC is Charisma-based.
+Attack-Slam	+4;d8+1;5; bludgeoning damage
+Multiattack: 2 slams	Bodak makes two slam attacks.

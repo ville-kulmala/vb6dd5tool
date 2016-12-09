@@ -1,0 +1,17 @@
+[Giant Rat]
+initiativebase	0
+initiative	9,73
+hits	7
+temphits	0
+maxhits	7
+status	
+picturefile	
+location	
+size	3
+ac	12
+speed	30 ft
+hd	2d6
+cr	1/8
+abilities	Str:7;Dex:15;Con:11;Int:2;Wis:10;Cha:4;
+Stats	Perception 10\n;Keen Smell. The rat has advantage on Wisdom (Perception) checks that rely on smell.\n;\n;Pack Tactics. The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
+Attack-Bite	+4;d4+2;5; piercing damage

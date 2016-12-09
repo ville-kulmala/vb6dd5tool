@@ -1,0 +1,20 @@
+[Green Hag]
+initiativebase	1
+initiative	11,78
+hits	82
+temphits	0
+maxhits	82
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\greenhag.jpg
+location	
+size	5
+ac	17 (natural armor)
+speed	30 ft.
+hd	11d8
+cr	3
+abilities	Str:18;Dex:12;Con:16;Int:13;Wis:14;Cha:14;
+Stats	Perception: Darkvision 60 ft., Passive perception 14\n;Skills: Arcana +3, Deception +4, Perception +4, Stealth +3\n;Languages: Common, Draconic, Sylvan\n;\n;MM p. 176\n;\n;Illusionary Appearance:\n;Invisible Passage:
+Amphibious	The hag can breath air and water.
+Innate spellcasting	Innate spellcasting ability based on Charisma (DC 12). Requires no material components.\n;At will: dancing lights, minor illusion, vicious mockery
+Mimicry	Can mimic animal sounds and human voices. DC14 Wisdom (Insight) to discern.
+Attack-Claws	+6;2d8+4;5; slashing damage

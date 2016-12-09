@@ -1,0 +1,55 @@
+[Bugbear]
+initiativebase	2
+initiative	18,08
+hits	27
+temphits	0
+maxhits	27
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\bugbear.jpg
+location	
+size	5
+ac	16 (hide armor, shield)
+speed	30
+hd	5d8
+cr	1
+abilities	Str:15;Dex:14;Con:13;Int:8;Wis:11;Cha:9;
+Stats	Brute. A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).\n;\n;Surprise Attack. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.\n;\n;Skills Stealth +6, Survival +2\n;Senses darkvision 60 ft., passive Perception 10\n;Languages Common, Goblin
+Attack-Morningstar	+4;2d8+2;5; piercing damage
+Attack-Javelin melee	+4;2d6+2;5; piercing damage
+Attack-Javelin ranged	+4;d6+2;60/120 ft; piercing damage
+[Hobgoblin]
+initiativebase	2
+initiative	6,65
+hits	11
+temphits	0
+maxhits	11
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\hobgoblin.jpg
+location	
+size	5
+ac	18 (chain mail, shield)
+speed	30
+hd	2d8
+cr	1/2
+abilities	Str:13;Dex:12;Con:12;Int:10;Wis:10;Cha:9;
+Stats	Martial Advantage. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.\n;\n;Senses darkvision 60 ft., passive Perception 10\n;Languages Common, Goblin\n;
+Attack-Longbow	+2;d8+1;150/600 ft.; slashing damage
+Attack-Longsword	+3;d8+1;5 ft.; slashing damage
+[Goblin]
+initiativebase	2
+initiative	21,99
+hits	7
+temphits	0
+maxhits	7
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\goblin.jpg
+location	
+size	5
+ac	15 (leather armor, shield)
+speed	30
+hd	2d6
+cr	1/4
+abilities	Str:8;Dex:14;Con:10;Int:10;Wis:8;Cha:8;
+Stats	Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.\n;\n;Skills Stealth +6\n;Senses darkvision 60 ft., passive Perception 9\n;Languages Common, Goblin
+Attack-Scimitar	+4;d6+2;5 ft.; slashing damage
+Attack-Shortbow	+4;d6+2;80/320 ft.; slashing damage

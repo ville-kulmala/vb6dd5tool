@@ -1,0 +1,72 @@
+[Name]
+initiativebase	6,8
+initiative	6,8
+hits	10
+temphits	0
+maxhits	10
+status	
+picturefile	C:\Users\Public\Pictures\Sample Pictures\Chrysanthemum.jpg
+location	
+[Name 1]
+initiativebase	13,57
+initiative	13,57
+hits	10
+temphits	0
+maxhits	10
+status	
+picturefile	C:\Users\Public\Pictures\Sample Pictures\Hydrangeas.jpg
+location	
+[Name 2]
+initiativebase	14,39
+initiative	14,39
+hits	10
+temphits	0
+maxhits	10
+status	
+picturefile	
+location	
+[Name 3]
+initiativebase	5,44
+initiative	5,44
+hits	10
+temphits	0
+maxhits	10
+status	
+picturefile	C:\Users\Public\Pictures\Sample Pictures\Penguins.jpg
+location	
+[Name 4]
+initiativebase	7,66
+initiative	7,66
+hits	10
+temphits	0
+maxhits	10
+status	
+picturefile	
+location	
+[Name 5]
+initiativebase	14,17
+initiative	14,17
+hits	10
+temphits	0
+maxhits	10
+status	
+picturefile	
+location	
+[Michel In]
+initiativebase	12,54
+initiative	12,54
+hits	20
+temphits	0
+maxhits	20
+status	
+picturefile	
+location	
+[Azugar]
+initiativebase	13,2
+initiative	13,2
+hits	20
+temphits	0
+maxhits	20
+status	
+picturefile	
+location	

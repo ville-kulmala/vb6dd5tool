@@ -1,0 +1,70 @@
+[Dire Wolf]
+initiativebase	2
+initiative	13,45
+hits	37
+temphits	0
+maxhits	37
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Dire wolf.jpg
+location	
+size	10
+ac	14 (natural armor)
+speed	50 ft.
+hd	5d10
+cr	1
+abilities	Str:17;Dex:15;Con:15;Int:3;Wis:12;Cha:7;
+Stats	Skills Perception +3, Stealth +4\n;Senses Perception +3, Stealth +4
+Attack-Bite	+5;2d6+3;5; piercing damage, DC 13 Strength save or be knocked prone.
+Keen Hearing and Smell	The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics	The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+[Giant Centipede]
+initiativebase	2
+initiative	3,45
+hits	4
+temphits	0
+maxhits	4
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Giant centipede.jpg
+location	
+size	3
+ac	13 (natural armor)
+speed	30 ft., climb 30 ft.
+hd	d6
+cr	1/4
+abilities	Str:5;Dex:14;Con:12;Int:1;Wis:7;Cha:3;
+Stats	Senses: blindsight 30 ft., passive Perception 8\n;MM p. 323
+Attack-Bite	+4;d4+2;5; piercing damage, DC 11 Constitution save or 10 (3d6) poison damage. Poison reduces to 0 HP, target stabilitzed  and poisoned (and paralyzed) for hour
+[Stirge]
+initiativebase	3
+initiative	16,41
+hits	2
+temphits	0
+maxhits	2
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\stirge.jpg
+location	
+size	2,5
+ac	14 (natural armor)
+speed	40 ft. fly, 10 ft
+hd	1d4
+cr	1/8
+abilities	Str:4;Dex:16;Con:11;Int:2;Wis:8;Cha:6;
+Stats	Tiny beast, unaligned\n;Senses darkvision 60 ft., passive Perception 9\n;\n;Blood Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesnt attack. Instead, at the start of each of the stirges turns, the target loses 5 (1d4 + 3) hit points due to blood loss. \n;The stirge can detach itself by spending 5 feet of its movement. It  does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.\n;\n;This horrid monster looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the
+Attack-Blood Drain	+5;1d4+3;5; piercing damage, attachment
+[Spider]
+initiativebase	2
+initiative	13,35
+hits	1
+temphits	0
+maxhits	1
+status	
+picturefile	C:\Users\AVACK\Dropbox\DD5\pics\spider.jpg
+location	
+size	2,5
+ac	12
+speed	20 ft., climb 20 ft
+hd	1d4
+cr	0
+abilities	Str:2;Dex:14;Con:8;Int:1;Wis:10;Cha:2;
+Attack-Bite	+4;1;5; piercing damage, DC9 or d4 poison damage
+Stats	Spider Climb: The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n;Web Sense: While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.\n;Web Walker: The spider ignores movement restrictions caused by webbing.\n;\n;Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.

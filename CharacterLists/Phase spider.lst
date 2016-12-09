@@ -1,0 +1,21 @@
+[Phase Spider]
+initiativebase	2
+initiative	8,099999
+hits	32
+temphits	0
+maxhits	32
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\phase spider.jpg
+location	
+size	10
+ac	13 (natural armor)
+speed	30 ft., climb 30 ft.
+hd	5d10 
+cr	3
+abilities	Str:15;Dex:15;Con:12;Int:6;Wis:10;Cha:6;
+STATS	Skills Stealth +6\n;Senses darkvision 60 ft., passive Perception 10\n;Languages -\n;\n;A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking.
+Ethereal Jaunt - Bonus action	As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
+Spider Climb	The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Web Walker	The spider ignores movement restrictions caused by webbing.
+notes	
+Attack-Bite	+4;d10+2;5; piercing damage, on hit DC11 Con save taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.

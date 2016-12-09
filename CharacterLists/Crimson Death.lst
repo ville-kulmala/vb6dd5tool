@@ -1,0 +1,21 @@
+[Crimson Death]
+initiativebase	3
+initiative	9,8
+hits	45
+temphits	0
+maxhits	45
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\Crimson-death.jpg
+location	
+size	5
+ac	13
+speed	30 ft. fly
+hd	10d8
+cr	4
+abilities	Str:12;Dex:17;Con:12;Int:15;Wis:15;Cha:14;
+notes	
+STATS	Skills: Stealth +5\n;Damage Resistances: acid, fire, lightning, thunder; bludgeonin, piercing and slashing from nonmagical weapons.\n;Damage Immunities: cold, neurotic, poison\n;Condition Immunities: charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained\n;Senses: darkvision 60 ft., passive Perception 10\n;Languages: telepathy (grappled creature only)
+Incorporeal Movement	The crimson death can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+Misty Stealth	In dim light or darkness, crimson death can take the Hide action as a bonus action. The crimson death has disadvantage on Dexterity (Stealth) checks it makes after feeding due to it taking on a crimson hue caused by its victims blood.
+Horrifying Visage	Each non-undead creature within 60 feet of the crimson death that can see it must succeed on a DC12 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turn, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this crimson death's Horrifying Visage for the next 24 hours. Unless the target is surprised, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creatur that averts its eyes has disadvantage on attack rolls against the crimson death.
+Attack-Tendril Drain	+5;3d6+2;5; necrotic damage + creature is grappled. The target must succeed on DC 14 Constitution save or Constitution score is reduced by 1d4. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its Constitution score to 0.

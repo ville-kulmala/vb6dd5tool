@@ -1,0 +1,19 @@
+[Dire Weasel]
+initiativebase	3
+initiative	6,38
+hits	15
+temphits	0
+maxhits	15
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\dire weasel.jpg
+location	
+size	5
+ac	15 (natural)
+speed	
+hd	3d8
+cr	1
+abilities	Str:14;Dex:17;Con:10;Int:3;Wis:12;Cha:11;
+Stas	Dire weasels grow to be up to 10 feet long and can reach a weight of 700 pounds. \n;\n;Own creation!
+Blood drain	Attached (by bite) weasel latches to the oppent's body. While attached, AC 12 (loses dexterity). Can be removed with Strength (Athletic) or Dexterity (Acrobatics) save of DC 13.\n;\n;Blood drain causes d6+3 automatic damage each turn.
+Attack-Bite	+5;d6+3;5; piercing damage, attachment
+notes	

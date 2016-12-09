@@ -1,0 +1,20 @@
+[Chasme]
+initiativebase	2
+initiative	9,77
+hits	84
+temphits	0
+maxhits	84
+status	
+picturefile	C:\Users\Omistaja\Dropbox\DD5\pics\chasme.jpg
+location	
+size	10
+ac	15 (natural armor)
+speed	20 ft., fly 60 ft.
+hd	13d10
+cr	6
+abilities	Str:15;Dex:15*;Con:12;Int:11;Wis:14*;Cha:10;
+STATS	Skills: Perception +5\n;Damage Resistances: cold, fire, lightning\n;Damage Immunities: poison\n;Condition Immunities: poisoned\n;Senses: blindsight 10 ft., darkvision 120 ft., passive Perception 15\n;Languages: Abyssal, telepathy 120 ft.\n;\n;Hyöneteisdemoni MM 57
+Drone: R30', DC12 Con or unconsious	The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn within 30 feet of the chasme must succeed on DC 12 Constitution saving throw or wall unconscious for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
+Magic Resistance: advantage to saves	The chasme has advantage on saving throws against spells and other magical effects.
+Spider climb	The chasme can climb difficult surfaces, including upside down ceilings, without needing to make ability checks.
+Attack-Phobosic	+5;4d6+2;5; piercing damage + 7d6 necrotic damage; target hitpoint maximum is reduced by necrotic damage. If necrotic reduces to 0 => creature dies. Lasts until long rest or greater restoration.
