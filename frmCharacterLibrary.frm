@@ -137,8 +137,8 @@ Private Sub lvCharacters_ColumnClick(ByVal ColumnHeader As MSComctlLib.ColumnHea
 End Sub
 
 Private Sub lvCharacters_DblClick()
-    If Not lvCharacters.SelectedItem Is Nothing Then
-        RaiseEvent AddCharacter(GetCharacter(lvCharacters.SelectedItem.Key))
+    If Not lvCharacters.selectedItem Is Nothing Then
+        RaiseEvent AddCharacter(GetCharacter(lvCharacters.selectedItem.Key))
     End If
 End Sub
 
@@ -179,7 +179,7 @@ End Function
 Private Sub mnuFileOpenFolder_Click()
     On Error Resume Next
     With CommonDialog1
-        .Filename = pFolder
+        .Filename = pFolder & "*.lst"
         .Filter = "Character lists|*.lst"
         .ShowOpen
         If Err = 0 Then
