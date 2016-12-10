@@ -1,6 +1,6 @@
 VERSION 5.00
 Object = "{6BF52A50-394A-11D3-B153-00C04F79FAA6}#1.0#0"; "wmp.dll"
-Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.2#0"; "MSCOMCTL.OCX"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
 Object = "{F9043C88-F6F2-101A-A3C9-08002B2F49FB}#1.2#0"; "COMDLG32.OCX"
 Begin VB.Form frmInitiative 
    Caption         =   "Initiatives"
@@ -658,12 +658,13 @@ Public Function HitCharacter(ByVal Damage As String, Attacker As clsCharacter, T
     With Target
         If Desc <> "" Then
             pText = Desc
+            .Hit Damage 'Täytyy se damagekin tehdä...
         Else
             pText = pText + " hits: " + .Hit(Damage)
         End If
         LogEvent pText
     
-        'UpdateCharacter
+        'UpdateCharacter 'Kirjoittaisko vauriot uudestaan pois...
         ListCharacters
         ShowCharacter
         'UpdateCharacterTimed
