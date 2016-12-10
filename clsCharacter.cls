@@ -327,19 +327,19 @@ End Function
 
 'Palauttaa lokattavan tiedon
 Public Function Hit(ByVal Damage As String, Optional ByVal IgnoreTempHits As Boolean) As String
-    Dim D As Integer
-    D = RollDice(Damage)
+    Dim d As Integer
+    d = RollDice(Damage)
     If TempHits > 0 Then
-        TempHits = TempHits - D
+        TempHits = TempHits - d
         If TempHits < 0 Then
             Hits = Hits + TempHits
             TempHits = 0
         End If
     Else
-        Hits = Hits - D
+        Hits = Hits - d
     End If
     IsActive = IIf(Hits > 0, True, False)
-    Hit = Name & " was hit for " & D & " points"
+    Hit = Name & " was hit for " & d & " points"
     If Not IsNumeric(Damage) Then
         Hit = Hit + " (" & Damage & ")"
     End If
@@ -388,7 +388,7 @@ End Function
 Public Sub Attack(ByVal AttackName As String, Target As clsCharacter, InitList As frmInitiative, Optional AdvantageMode As enAdvantageMode = AMNormal)
     Dim R As String
     Dim dr As Integer
-    Dim D As Integer
+    Dim d As Integer
     Dim AC As String
     Dim sAV As String
     Dim a As Variant
@@ -418,17 +418,17 @@ Public Sub Attack(ByVal AttackName As String, Target As clsCharacter, InitList A
             Else
                 If dr = 20 Then
                     Dice = MakeDiceCrit(a(1))
-                    D = RollDice(Dice)
-                    Desc = "Attack hits  CRITICAL (total " & R & " vs. AC" & AC & ") for " & D & " points (damage roll: " & Dice & ", attack roll " & dr & ams & ")"
-                    If MsgBox(Desc, vbOKCancel, Name & " attacks " & Target.Name) = vbOK Then
-                        InitList.HitCharacter D, Me, Target, Name & " attacks " & Target.Name & ": " & Desc
+                    d = RollDice(Dice)
+                    Desc = "Attack hits CRITICAL (total " & R & " vs. AC" & AC & ") for " & d & " points (damage roll: " & Dice & ", attack roll " & dr & ams & ")"
+                    If MsgBox(Desc, vbOKCancel, Name & " attacks " & Target.Name & " with " & AttackName) = vbOK Then
+                        InitList.HitCharacter d, Me, Target, Name & " attacks " & Target.Name & ": " & Desc
                     End If
                 
                 Else
-                    D = RollDice(a(1))
-                    Desc = "Attack hits (total " & R & " vs. AC" & AC & ") for " & D & " points (roll " & dr & ams & ")"
-                    If MsgBox(Desc, vbOKCancel, Name & " attacks " & Target.Name) = vbOK Then
-                        InitList.HitCharacter D, Me, Target, Name & " attacks " & Target.Name & ": " & Desc
+                    d = RollDice(a(1))
+                    Desc = "Attack hits (total " & R & " vs. AC" & AC & ") for " & d & " points (roll " & dr & ams & ")"
+                    If MsgBox(Desc, vbOKCancel, Name & " attacks " & Target.Name & " with " & AttackName) = vbOK Then
+                        InitList.HitCharacter d, Me, Target, Name & " attacks " & Target.Name & ": " & Desc
                     End If
                 End If
             End If
