@@ -1,0 +1,47 @@
+[Wererat]
+initiativebase	2
+initiative	12,32
+hits	33
+temphits	0
+maxhits	33
+status	
+picturefile	
+location	
+size	5
+ac	12
+speed	
+hd	6d8
+cr	2
+abilities	Str:10;Dex:15;Con:12;Int:11;Wis:10;Cha:8;
+STATS	Skills: Perception +2, Stealth +4\n;Damage: Immunitiesbludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons\n;Senses: darkvision 60 ft. (rat form only), passive Perception 12\n;Languages: Common (can't speak in rat form)
+Shapechanger	The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+Keen Smell	The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+Multiattack - 2 attacks	The wererat makes two attacks, only one of which can be a bite
+Attack-Bite	+4;d4+2;5; piercing damage. DC 11 Constitution saving throw or be cursed with wererat lycanthropy if humanoid.
+Attack-Shortsword	+4;d6+2;5; piercing damage
+Attack-Hand Crossbow	+4;d6+2;30/120 ft; piercing damage
+notes	
+[Wererat Rogue]
+initiativebase	2
+initiative	12,29
+hits	40
+temphits	0
+maxhits	40
+status	
+picturefile	
+location	
+size	5
+ac	12
+speed	
+hd	8d8
+cr	2
+abilities	Str:10;Dex:15*;Con:12;Int:11*;Wis:10;Cha:8;
+STATS	Skills: Perception +2, Stealth +4\n;Damage: Immunitiesbludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons\n;Senses: darkvision 60 ft. (rat form only), passive Perception 12\n;Languages: Common (can't speak in rat form)
+Shapechanger	The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+Keen Smell	The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+Multiattack - 2 attacks	The wererat makes two attacks, only one of which can be a bite
+Sneak attack (1/turn, 2d6)	The wererat rogue deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the wererat rogue that isn't incapacitated and the wererat rogue doesn't have disadvantage on the attack roll.
+Pack Tactics	The wererat rogue has advantage on an attack roll against a creature if at least one of the it's allies is within 5 feet of the creature and the ally isn't incapacitated.
+Attack-Bite	+4;d4+2;5; piercing damage. DC 11 Constitution saving throw or be cursed with wererat lycanthropy if humanoid.
+Attack-Shortsword	+4;d6+2;5; piercing damage
+Attack-Hand Crossbow	+4;d6+2;30/120 ft; piercing damage
